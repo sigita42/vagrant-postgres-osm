@@ -12,7 +12,7 @@ Vagrant.configure(2) do |config|
 
   # Every Vagrant development environment requires a box. You can search for
   # boxes at https://atlas.hashicorp.com/search.
-  config.vm.box = "box-cutter/ubuntu1504-docker"
+  config.vm.box = "box-cutter/ubuntu1404-docker"
 
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs
@@ -71,8 +71,8 @@ Vagrant.configure(2) do |config|
   # SHELL
 
   config.vm.provision "shell", inline: <<-SHELL
-    docker pull sigita42/docker-postgres-osm
-    docker pull sigita42/docker-postgres-osm-tools
+    docker pull sigita42/postgres-osm
+    docker pull sigita42/postgres-osm-tools
 
     docker run -d --name postgres-osm -p 5432:5432 sigita42/postgres-osm
   SHELL
