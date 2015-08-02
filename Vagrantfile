@@ -74,6 +74,6 @@ Vagrant.configure(2) do |config|
     docker pull sigita42/postgres-osm
     docker pull sigita42/postgres-osm-tools
 
-    docker run -d --name postgres-osm -p 5432:5432 sigita42/postgres-osm
+    docker run -d --name postgres-osm -p 5432:5432 --restart always sigita42/postgres-osm
   SHELL
 end
