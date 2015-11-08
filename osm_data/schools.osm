@@ -1,0 +1,1798 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.44.1">
+  <bounds minlon="15.89900" minlat="47.88500" maxlon="16.83400" maxlat="48.50500" origin="http://www.openstreetmap.org/api/0.6"/>
+  <node id="55601227" version="3" timestamp="2011-04-07T18:45:46Z" uid="289334" user="Soldier Boy" changeset="7797292" lat="47.949697" lon="16.2299772">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Polytechnische Schule Kottingbrunn"/>
+    <tag k="source" v="knowledge"/>
+  </node>
+  <node id="60822168" version="6" timestamp="2012-03-10T19:24:07Z" uid="54806" user="_al" changeset="10935778" lat="48.2461298" lon="16.3872138">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:postcode" v="1210"/>
+    <tag k="addr:street" v="Donauinselplatz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Bertha-von-Suttner-Gymnasium"/>
+    <tag k="phone" v="+43 (1) 271 40 97"/>
+    <tag k="website" v="http://www.schulschiff.at/"/>
+    <tag k="wikipedia:de" v="Schulschiff_(Gymnasium)"/>
+  </node>
+  <node id="61274271" version="7" timestamp="2013-08-10T12:25:22Z" uid="131968" user="changchun_1" changeset="17290529" lat="48.2205017" lon="16.3722157">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Untere Augartenstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="HAK/HAS Augarten"/>
+    <tag k="name:de" v="HAK/HAS Augarten"/>
+    <tag k="name:en" v="Vienna Business School"/>
+    <tag k="operator" v="Fonds der Wiener Kaufmannschaft"/>
+  </node>
+  <node id="66933665" version="4" timestamp="2013-02-04T19:23:48Z" uid="290680" user="wheelmap_visitor" changeset="14910633" lat="48.2802047" lon="16.4019672">
+    <tag k="amenity" v="school"/>
+    <tag k="created_by" v="Potlatch 0.6a"/>
+    <tag k="name" v="Hauptschule/Volkschule Ödenburgerstraße"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="68890650" version="12" timestamp="2013-02-24T21:46:35Z" uid="1239541" user="senseiTS" changeset="15154469" lat="48.2266399" lon="16.3341927">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="1180"/>
+    <tag k="addr:street" v="Klostergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="BG 18 Klostergasse"/>
+    <tag k="website" v="http://www.klostergasse.at/"/>
+  </node>
+  <node id="74809043" version="11" timestamp="2013-01-06T11:05:32Z" uid="26818" user="David &amp; Christine Schmitt" changeset="14547070" lat="48.2009198" lon="16.3708551">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Akademiestraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="HAK I"/>
+  </node>
+  <node id="76653086" version="9" timestamp="2013-10-06T13:40:00Z" uid="461734" user="nebulon42" changeset="18212548" lat="48.2063691" lon="16.3992724">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Wittelsbachstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="blind:description:de" v="Blindenmuseum, Führungen nach telefonischer Anmeldung."/>
+    <tag k="FIXME" v="Service Hours: Führungen ach telefonischer Anfrage"/>
+    <tag k="name" v="Museum des Blindenwesens"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="http://www.bbi.at/menu/museum.html"/>
+  </node>
+  <node id="77517962" version="5" timestamp="2009-02-07T18:11:00Z" uid="66904" user="OSchlüter" changeset="248893" lat="48.3626656" lon="16.4712427">
+    <tag k="addr:city" v="Großebersdorf"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="2203"/>
+    <tag k="addr:street" v="Am Sandgraben"/>
+    <tag k="amenity" v="school"/>
+    <tag k="created_by" v="Potlatch 0.4c"/>
+    <tag k="name" v="Volksschule Großebersdorf"/>
+  </node>
+  <node id="111110224" version="10" timestamp="2012-10-25T10:32:55Z" uid="712596" user="AMosm" changeset="13625752" lat="48.2273753" lon="16.357504">
+    <tag k="alt_name" v="GEPS Volksschule im Lichtental"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Marktgasse"/>
+  </node>
+  <node id="151019949" version="4" timestamp="2012-10-25T11:37:52Z" uid="478912" user="Twix73" changeset="13626159" lat="48.0292155" lon="16.7752613">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Bundesrealgymnasium"/>
+  </node>
+  <node id="151020040" version="4" timestamp="2012-10-25T11:37:52Z" uid="478912" user="Twix73" changeset="13626159" lat="48.0293877" lon="16.7748322">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Handelsakademie"/>
+  </node>
+  <node id="208095691" version="4" timestamp="2012-03-13T10:35:27Z" uid="290680" user="wheelmap_visitor" changeset="10963040" lat="48.3125777" lon="16.4961067">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volkschule Kapellerfeld"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="243506859" version="2" timestamp="2009-01-30T13:18:53Z" uid="12295" user="mapper_07" changeset="855616" lat="48.3677291" lon="16.3828493">
+    <tag k="amenity" v="school"/>
+    <tag k="created_by" v="Potlatch 0.6c"/>
+    <tag k="name" v="Volksschule Stetten"/>
+  </node>
+  <node id="246174571" version="3" timestamp="2012-07-16T22:32:40Z" uid="722137" user="OSMF Redaction Account" changeset="12252833" lat="48.2768437" lon="16.4084633">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="248529106" version="5" timestamp="2012-10-19T08:43:17Z" uid="712596" user="AMosm" changeset="13553936" lat="48.2160181" lon="16.3214661">
+    <tag k="amenity" v="school"/>
+    <tag k="fixme" v="eher amenity=kindergarten?"/>
+    <tag k="name" v="Kindergruppe Kulturmosaik"/>
+    <tag k="school" v="preschool"/>
+  </node>
+  <node id="249116983" version="7" timestamp="2009-08-18T19:13:15Z" uid="51552" user="kfg" changeset="2193107" lat="48.4129527" lon="16.4941519">
+    <tag k="addr:city" v="Ulrichskirchen"/>
+    <tag k="addr:housename" v="Volksschule Ulrichskirchen"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="2122"/>
+    <tag k="addr:street" v="Neue Schule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="loc_name" v="Millenniumsschule"/>
+    <tag k="name" v="Volksschule Ulrichskirchen"/>
+    <tag k="short_name" v="Volksschule"/>
+    <tag k="url" v="http://www.millenniumsschule.at"/>
+  </node>
+  <node id="250077134" version="2" timestamp="2012-09-01T20:43:46Z" uid="433361" user="Dima M" changeset="12946902" lat="48.2291548" lon="16.3284924">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Marianum"/>
+  </node>
+  <node id="250601938" version="3" timestamp="2011-01-25T13:46:08Z" uid="38313" user="SKald" changeset="7083787" lat="48.2289956" lon="16.3399296">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="1180"/>
+    <tag k="addr:street" v="Cottagegasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Wien XVIII"/>
+  </node>
+  <node id="251209523" version="2" timestamp="2008-07-23T00:06:12Z" uid="28205" user="kelvan" changeset="577605" lat="48.1504428" lon="16.3185878">
+    <tag k="amenity" v="school"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Ökoschule"/>
+  </node>
+  <node id="253853583" version="2" timestamp="2011-02-10T18:37:40Z" uid="47064" user="7503146" changeset="7247657" lat="48.0988685" lon="16.2700379">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Sportgymnasium Maria Enzersdorf"/>
+  </node>
+  <node id="269658451" version="2" timestamp="2008-06-11T09:01:23Z" uid="24032" user="lyrie" changeset="133115" lat="48.2967882" lon="16.4586982">
+    <tag k="amenity" v="school"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="name" v="Volkschule"/>
+  </node>
+  <node id="273068658" version="2" timestamp="2013-06-07T22:58:21Z" uid="1506246" user="DerPetzi" changeset="16463500" lat="48.3228033" lon="16.2106504">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Harald Godai Volksschule"/>
+  </node>
+  <node id="274493606" version="2" timestamp="2010-03-05T17:01:23Z" uid="47064" user="7503146" changeset="4042691" lat="48.1254321" lon="16.2813374">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="286062925" version="4" timestamp="2011-10-11T21:09:23Z" uid="290680" user="wheelmap_visitor" changeset="9527581" lat="48.089142" lon="16.2904168">
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Jakob Thoma-Straße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Jakob Thoma Hauptschule"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="289665097" version="6" timestamp="2012-03-15T12:43:57Z" uid="610129" user="mopok1" changeset="10987973" lat="48.1925846" lon="16.2628937">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="1130"/>
+    <tag k="addr:street" v="Schloßberggasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Schulen der Dominikanerinnen"/>
+    <tag k="website" v="http://www.dominikanerinnen.at"/>
+  </node>
+  <node id="289943135" version="3" timestamp="2011-02-01T11:21:46Z" uid="290680" user="wheelmap_visitor" changeset="7153630" lat="48.1652017" lon="16.3053674">
+    <tag k="amenity" v="school"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="name" v="Volksschule Rohrwassergasse"/>
+    <tag k="phone" v="+49-1-8024447"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="293790337" version="5" timestamp="2011-01-25T13:44:18Z" uid="38313" user="SKald" changeset="7083770" lat="48.2243072" lon="16.3413716">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="44-46"/>
+    <tag k="addr:postcode" v="1180"/>
+    <tag k="addr:street" v="Schopenhauerstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="De la Salle Schule - Schulbrüder Währing"/>
+  </node>
+  <node id="299400645" version="4" timestamp="2012-07-20T13:55:39Z" uid="56501" user="Rudolf_H" changeset="12378580" lat="47.8996039" lon="16.6435935">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="299401326" version="1" timestamp="2008-09-24T07:40:30Z" uid="68608" user="Sakkara" changeset="693004" lat="47.8914309" lon="16.6409865">
+    <tag k="amenity" v="school"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="name" v="Kindergarten"/>
+  </node>
+  <node id="301430416" version="1" timestamp="2008-10-01T19:00:03Z" uid="28205" user="kelvan" changeset="16164" lat="48.147938" lon="16.312073">
+    <tag k="amenity" v="school"/>
+    <tag k="fixme" v="yes"/>
+    <tag k="note" v="Montesori Schule"/>
+  </node>
+  <node id="306943221" version="2" timestamp="2010-05-31T17:36:32Z" uid="95813" user="stefan hochstoeger" changeset="4866107" lat="48.3473508" lon="16.3329067">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="306954987" version="1" timestamp="2008-10-24T12:21:49Z" uid="70738" user="montolio" changeset="556425" lat="48.3298371" lon="16.3592727">
+    <tag k="amenity" v="school"/>
+    <tag k="created_by" v="Potlatch 0.10e"/>
+  </node>
+  <node id="323060834" version="8" timestamp="2012-06-03T09:12:29Z" uid="99800" user="wolfbert" changeset="11784128" lat="48.2212781" lon="16.3749473">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Leopoldsgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Sonderpädagogisches Zentrum"/>
+  </node>
+  <node id="330022623" version="2" timestamp="2011-12-08T22:56:09Z" uid="566685" user="GK1-ue" changeset="10069145" lat="48.1515545" lon="16.3145533">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Alterlaa (Halbtags-/ u. Ganztagsschule"/>
+  </node>
+  <node id="330306958" version="1" timestamp="2009-01-08T20:47:57Z" uid="12295" user="mapper_07" changeset="757295" lat="48.3596927" lon="16.6036504">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="330374223" version="6" timestamp="2012-08-17T10:22:05Z" uid="712596" user="AMosm" changeset="12760699" lat="48.2108474" lon="16.3874018">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2a"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Radetzkystraße"/>
+    <tag k="alt_name" v="Radetzkygymnasium"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="BRG 3"/>
+    <tag k="note" v="Eingang: Hintere Zollamtstraße 7"/>
+    <tag k="ref" v="903036"/>
+    <tag k="website" v="http://www.rg3.at"/>
+  </node>
+  <node id="330374228" version="5" timestamp="2011-02-27T13:38:27Z" uid="99800" user="wolfbert" changeset="7410754" lat="48.2101554" lon="16.3902564">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Kolonitzgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Kolonitzschule"/>
+    <tag k="website" v="http://www.vskolo.at/"/>
+  </node>
+  <node id="330374988" version="6" timestamp="2012-03-26T09:43:43Z" uid="99800" user="wolfbert" changeset="11103947" lat="48.215473" lon="16.3774902">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2a"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Kleine Sperlgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="fixme" v="Position und Gelände"/>
+    <tag k="name" v="VS Kleine Sperlgasse"/>
+  </node>
+  <node id="331584201" version="1" timestamp="2009-01-12T21:34:18Z" uid="74896" user="tevake" changeset="780742" lat="48.3386219" lon="16.7182052">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="HAK-HAS Gänserndorf"/>
+  </node>
+  <node id="331651017" version="2" timestamp="2012-03-26T09:43:42Z" uid="99800" user="wolfbert" changeset="11103947" lat="48.2154449" lon="16.3800582">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule Leopoldstadt"/>
+  </node>
+  <node id="333164127" version="2" timestamp="2009-01-24T14:58:21Z" uid="74896" user="tevake" changeset="830642" lat="48.3675371" lon="16.6988615">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="334539580" version="2" timestamp="2009-06-13T06:54:28Z" uid="116309" user="sdaedalus" changeset="1501609" lat="48.0951821" lon="16.3043983">
+    <tag k="amenity" v="school"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="335383678" version="6" timestamp="2013-05-08T06:01:22Z" uid="54806" user="_al" changeset="16023590" lat="48.0988028" lon="16.2694279">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule der Erzdiözese Wien"/>
+  </node>
+  <node id="335468296" version="4" timestamp="2011-04-22T06:34:07Z" uid="238266" user="bangla" changeset="7931265" lat="47.9495754" lon="16.2822847">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule Teesdorf"/>
+  </node>
+  <node id="336565066" version="2" timestamp="2010-07-03T18:53:50Z" uid="47064" user="7503146" changeset="5127068" lat="48.0535732" lon="16.2054962">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Gaaden"/>
+  </node>
+  <node id="338454525" version="3" timestamp="2012-03-26T09:43:42Z" uid="99800" user="wolfbert" changeset="11103947" lat="48.2154295" lon="16.3779575">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2a"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Kleine Sperlgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="fixme" v="Position und Gelände"/>
+    <tag k="name" v="Neue Mittelschule Kleine Sperlgasse"/>
+  </node>
+  <node id="338457425" version="3" timestamp="2012-06-03T09:12:30Z" uid="99800" user="wolfbert" changeset="11784128" lat="48.2215128" lon="16.3746512">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1a"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Leopoldsgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="VS St. Elisabeth"/>
+  </node>
+  <node id="338458566" version="3" timestamp="2012-05-18T08:35:18Z" uid="99800" user="wolfbert" changeset="11630687" lat="48.2192454" lon="16.3774839">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Schwarzingergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="SPZ Schwarzingergasse"/>
+  </node>
+  <node id="338831262" version="2" timestamp="2012-06-03T09:12:29Z" uid="99800" user="wolfbert" changeset="11784128" lat="48.2220559" lon="16.3757854">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Obere Augartenstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="KMS Augartenschule"/>
+    <tag k="ref" v="902052"/>
+  </node>
+  <node id="338831271" version="4" timestamp="2012-05-18T13:08:44Z" uid="99800" user="wolfbert" changeset="11632978" lat="48.2203818" lon="16.3768387">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Malzgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Beth Jakov Jüdische Mädchenschule für wirtschaftliche Berufe"/>
+  </node>
+  <node id="338832071" version="4" timestamp="2011-03-17T16:41:14Z" uid="289334" user="Soldier Boy" changeset="7587146" lat="48.2063714" lon="16.399753">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Wittelsbachstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Bundesblindeninstitut"/>
+    <tag k="school" v="blind"/>
+  </node>
+  <node id="343502395" version="7" timestamp="2012-10-20T13:19:05Z" uid="712596" user="AMosm" changeset="13567608" lat="48.1896202" lon="16.2848843">
+    <tag k="alt_name" v="Global Education Primary School - Öffentliche Volksschule der Stadt Wien Auhofstraße 49"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Auhofstraße"/>
+  </node>
+  <node id="348071884" version="4" timestamp="2011-10-14T14:34:37Z" uid="534041" user="besu" changeset="9556082" lat="48.2052216" lon="16.3886499">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Seidlgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="EWI Institut"/>
+  </node>
+  <node id="367865348" version="1" timestamp="2009-03-31T12:20:09Z" uid="11506" user="mkoi" changeset="871522" lat="47.9631513" lon="16.1953063">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Gainfarn"/>
+    <tag k="source" v="knowledge"/>
+  </node>
+  <node id="367935310" version="2" timestamp="2010-11-13T20:23:56Z" uid="302363" user="fkv" changeset="6361644" lat="47.9635444" lon="16.2033237">
+    <tag k="addr:housenumber" v="14-16"/>
+    <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule Bad Vöslau"/>
+    <tag k="source" v="guess"/>
+  </node>
+  <node id="370620247" version="6" timestamp="2013-12-07T20:21:21Z" uid="1714687" user="indagegend" changeset="19328809" lat="48.2265888" lon="16.4569299">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:district" v="22. Donaustadt"/>
+    <tag k="addr:postcode" v="1220"/>
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="375997317" version="1" timestamp="2009-04-14T20:21:16Z" uid="97309" user="Kurt_Woloch" changeset="538836" lat="48.22047" lon="16.3395388">
+    <tag k="amenity" v="school"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Lutherschule und Schülerhort"/>
+  </node>
+  <node id="379758246" version="11" timestamp="2012-06-20T13:16:33Z" uid="479400" user="erwin6330" changeset="11958700" lat="48.0807672" lon="16.4371329">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Schulzentrum Himberg"/>
+  </node>
+  <node id="392877291" version="2" timestamp="2012-09-25T13:31:36Z" uid="712596" user="AMosm" changeset="13246716" lat="48.1981112" lon="16.3840669">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Reisnerstraße"/>
+  </node>
+  <node id="404616976" version="4" timestamp="2012-10-02T13:06:08Z" uid="712596" user="AMosm" changeset="13334677" lat="48.1977391" lon="16.4036439">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Hagenmüllergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="GRgIII Hagenmüllergasse 30"/>
+    <tag k="website" v="http://www.grg3.at/"/>
+  </node>
+  <node id="409188524" version="2" timestamp="2012-03-16T21:16:19Z" uid="579739" user="grimnirson" changeset="11002519" lat="48.1907694" lon="16.352378">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="SAE Institute"/>
+  </node>
+  <node id="414812359" version="3" timestamp="2012-05-10T19:14:05Z" uid="110497" user="martinq" changeset="11561969" lat="48.3619299" lon="16.539434">
+    <tag k="addr:city" v="Pillichsdorf"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="2211"/>
+    <tag k="addr:street" v="Bahnstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Pillichsdorf"/>
+  </node>
+  <node id="415906788" version="4" timestamp="2011-12-10T02:51:21Z" uid="17047" user="KaiRo" changeset="10078123" lat="48.2060914" lon="16.3413898">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Neustiftgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule der Stadt Wien"/>
+  </node>
+  <node id="417760757" version="5" timestamp="2013-05-05T10:07:35Z" uid="53306" user="Wolfgang B" changeset="15982091" lat="48.433977" lon="16.4736949">
+    <tag k="addr:city" v="Unterolberndorf"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:postcode" v="2123"/>
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="418169605" version="2" timestamp="2012-03-26T13:10:46Z" uid="99800" user="wolfbert" changeset="11105857" lat="48.2162724" lon="16.3855983">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Evangelische Volksschule Leopoldstadt"/>
+  </node>
+  <node id="418170673" version="4" timestamp="2012-03-26T13:10:51Z" uid="99800" user="wolfbert" changeset="11105857" lat="48.214857" lon="16.3875998">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Czerninplatz"/>
+  </node>
+  <node id="418415662" version="4" timestamp="2013-05-27T06:45:02Z" uid="433361" user="Dima M" changeset="16305346" lat="48.2333108" lon="16.3247633">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:postcode" v="1180"/>
+    <tag k="addr:street" v="Alsegger Straße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikhauptschule Wien KMMS Alseggerstraße"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="419270993" version="4" timestamp="2012-12-23T15:52:52Z" uid="49642" user="realadry" changeset="14379776" lat="48.1993616" lon="16.3686581">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Karlsplatz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="pVS evangelische Kirche Karlsplatz 14"/>
+  </node>
+  <node id="422997387" version="5" timestamp="2012-12-07T15:38:44Z" uid="78656" user="Walter Schlögl" changeset="14189305" lat="48.1969218" lon="16.3629036">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="28-30"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Mühlgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Konservatorium für Musik und Dramatische Kunst der Margarete Prayner"/>
+    <tag k="website" v="http://www.konservatorium-prayner.at/"/>
+  </node>
+  <node id="429603728" version="1" timestamp="2009-06-26T19:05:17Z" uid="136033" user="peter_wien" changeset="1643387" lat="48.2248919" lon="16.333769">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Schulzentrum Antonigasse"/>
+  </node>
+  <node id="436337661" version="2" timestamp="2012-10-20T13:06:19Z" uid="712596" user="AMosm" changeset="13567476" lat="48.2046623" lon="16.3325247">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Sonderpädagogisches Zentrum Ottakring"/>
+  </node>
+  <node id="440920855" version="1" timestamp="2009-07-12T20:56:38Z" uid="74896" user="tevake" changeset="1811286" lat="48.3390758" lon="16.7195868">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule 1"/>
+  </node>
+  <node id="440920857" version="1" timestamp="2009-07-12T20:56:38Z" uid="74896" user="tevake" changeset="1811286" lat="48.3391415" lon="16.719186">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule 2"/>
+  </node>
+  <node id="442544544" version="2" timestamp="2012-08-12T14:52:45Z" uid="17047" user="KaiRo" changeset="12702577" lat="48.1990626" lon="16.339945">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="1070"/>
+    <tag k="addr:street" v="Kenyongasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Mater Salvatoris"/>
+  </node>
+  <node id="443011343" version="3" timestamp="2013-06-24T10:41:35Z" uid="478912" user="Twix73" changeset="16682330" lat="48.1151476" lon="16.7138339">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Haslau an der Donau"/>
+  </node>
+  <node id="444308578" version="4" timestamp="2012-01-04T16:49:42Z" uid="70696" user="xybot" changeset="10292690" lat="48.1990081" lon="16.3993478">
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Erdbergstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Erdbergstraße"/>
+  </node>
+  <node id="446273063" version="2" timestamp="2013-12-13T19:33:49Z" uid="657579" user="schauzi" changeset="19438388" lat="48.3321266" lon="16.0571302">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Sporthauptschule"/>
+  </node>
+  <node id="450651634" version="1" timestamp="2009-07-29T13:05:18Z" uid="150960" user="hofram69" changeset="1974908" lat="48.1455515" lon="16.7005282">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule Orth an der Donau"/>
+  </node>
+  <node id="450651635" version="1" timestamp="2009-07-29T13:05:31Z" uid="150960" user="hofram69" changeset="1974908" lat="48.1465537" lon="16.7043734">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Orth an der Donau"/>
+  </node>
+  <node id="452387588" version="3" timestamp="2012-03-12T23:03:51Z" uid="38255" user="BearT" changeset="10961758" lat="48.1950754" lon="16.3853138">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Rennweg"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Institut Sacre-Coeur d. Erzdiözese Wien"/>
+    <tag k="note" v="VS, Gym (lt. Türschild)"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="469989450" version="3" timestamp="2012-01-20T08:00:33Z" uid="38255" user="BearT" changeset="10443848" lat="48.1951535" lon="16.3922007">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Boerhaavegasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="email" v="schule@hib-wien.at"/>
+    <tag k="name" v="BG &amp; BRG Wien 3 (HIB)"/>
+    <tag k="phone" v="+43 (0)1 / 713 44 23"/>
+    <tag k="ref" v="903026"/>
+    <tag k="url" v="http://hib-wien.at"/>
+  </node>
+  <node id="470028953" version="5" timestamp="2013-02-21T16:25:02Z" uid="290680" user="wheelmap_visitor" changeset="15112671" lat="48.1962017" lon="16.3871941">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Ungargasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Schulzentrum Ungargasse"/>
+    <tag k="website" v="http://www.szu.at"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="470623758" version="4" timestamp="2013-12-08T18:13:14Z" uid="303158" user="stefanct" changeset="19345284" lat="48.1288116" lon="16.3144752">
+    <tag k="amenity" v="school"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="470623957" version="2" timestamp="2010-10-01T20:10:52Z" uid="56986" user="alice23" changeset="5931141" lat="48.1282463" lon="16.3140457">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="471046388" version="5" timestamp="2012-10-15T07:21:07Z" uid="712596" user="AMosm" changeset="13501956" lat="48.2068608" lon="16.378104">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="6-8"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Stubenbastei"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="GRG1 Stubenbastei"/>
+    <tag k="phone" v="+43 (1) 5127810"/>
+    <tag k="ref" v="901046"/>
+    <tag k="website" v="http://www.stubenbastei.at/"/>
+  </node>
+  <node id="471381103" version="2" timestamp="2012-10-20T13:32:03Z" uid="712596" user="AMosm" changeset="13567744" lat="48.1680066" lon="16.3424964">
+    <tag k="alt_name" v="Hertha Firnberg Schule - Öffentliche Volksschule der Stadt Wien"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hertha Firnberg Schule"/>
+  </node>
+  <node id="472626189" version="2" timestamp="2012-03-29T23:11:06Z" uid="630401" user="ancpru" changeset="11145818" lat="48.0066534" lon="16.2345036">
+    <tag k="addr:city" v="Baden"/>
+    <tag k="addr:housenumber" v="3-5"/>
+    <tag k="addr:postcode" v="2500"/>
+    <tag k="addr:street" v="Frauengasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="BG und BRG Baden Frauengasse"/>
+  </node>
+  <node id="473473379" version="1" timestamp="2009-08-25T11:29:20Z" uid="161500" user="motal" changeset="2254656" lat="48.2532325" lon="16.4099739">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule Kinzerplatz"/>
+  </node>
+  <node id="474425072" version="7" timestamp="2011-09-14T12:55:57Z" uid="289334" user="Soldier Boy" changeset="9299270" lat="47.9207436" lon="16.1844082">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+    <tag k="website" v="http://www.vs-enzesfeld-lindabrunn.at/"/>
+  </node>
+  <node id="476068437" version="2" timestamp="2011-12-11T01:15:22Z" uid="93441" user="svoboda" changeset="10086229" lat="48.2176441" lon="16.4682652">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Krankenpflegeschule Donauspital"/>
+  </node>
+  <node id="476068452" version="5" timestamp="2013-10-31T06:00:30Z" uid="154992" user="tanzbaer99" changeset="18629125" lat="48.2192707" lon="16.4776465">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="1220"/>
+    <tag k="addr:street" v="Eibengasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Volkshochschule Donaustadt"/>
+    <tag k="wlan:operator" v="freewave"/>
+  </node>
+  <node id="492068744" version="1" timestamp="2009-09-10T09:31:29Z" uid="164053" user="wskabrond" changeset="2433711" lat="48.1397815" lon="16.4775465">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule"/>
+  </node>
+  <node id="497126219" version="3" timestamp="2010-08-08T21:34:21Z" uid="39877" user="andreas_k" changeset="5438257" lat="48.2136167" lon="16.3687967">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Börsegasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Börsegasse"/>
+  </node>
+  <node id="497147653" version="4" timestamp="2011-09-10T21:43:07Z" uid="26818" user="David &amp; Christine Schmitt" changeset="9266167" lat="48.2141596" lon="16.3646655">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="7-9"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Schottenbastei"/>
+    <tag k="amenity" v="school"/>
+    <tag k="description" v="Bundesrealgymnasium Schottenbastei"/>
+    <tag k="name" v="Lise Meitner Realgymnasium"/>
+    <tag k="phone" v="+43 (1) 5338450-0"/>
+    <tag k="ref" v="901036"/>
+  </node>
+  <node id="497147654" version="3" timestamp="2013-05-05T11:25:37Z" uid="1417988" user="canetti" changeset="15982839" lat="48.2136159" lon="16.368569">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Renngasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule Renngasse 20"/>
+  </node>
+  <node id="497147655" version="6" timestamp="2010-11-27T21:58:24Z" uid="374661" user="YuraH" changeset="6473803" lat="48.2121474" lon="16.3643485">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Freyung"/>
+    <tag k="amenity" v="school"/>
+    <tag k="description" v="Allgemeinbildende höhere Schule"/>
+    <tag k="name" v="Öffentliches Schottengymnasium der Benediktiner in Wien"/>
+  </node>
+  <node id="497147658" version="4" timestamp="2012-10-12T22:54:37Z" uid="712596" user="AMosm" changeset="13473393" lat="48.2111421" lon="16.3696874">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3-4"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Judenplatz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="info" v="Mittlere und höhere Schule"/>
+    <tag k="name" v="Gastgewerbefachschule der Wiener Gastwirte"/>
+  </node>
+  <node id="497155571" version="4" timestamp="2012-10-15T08:26:37Z" uid="712596" user="AMosm" changeset="13502595" lat="48.20712" lon="16.3787833">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Stubenbastei"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Stubenbastei"/>
+    <tag k="ref" v="901021"/>
+    <tag k="website" v="http://www.schulen.wien.at/schulen/901021/"/>
+  </node>
+  <node id="497155573" version="3" timestamp="2011-03-01T16:31:56Z" uid="99800" user="wolfbert" changeset="7430645" lat="48.2078766" lon="16.3728781">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Stephansplatz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="info" v="Akademie"/>
+    <tag k="name" v="Religionspädagogische Akademie"/>
+  </node>
+  <node id="497155574" version="2" timestamp="2010-04-03T21:14:25Z" uid="51552" user="kfg" changeset="4317477" lat="48.2078924" lon="16.3709485">
+    <tag k="amenity" v="school"/>
+    <tag k="description" v="Musikschule"/>
+    <tag k="name" v="Konservatorium der Erzdiözese Wien"/>
+  </node>
+  <node id="497155575" version="3" timestamp="2010-08-04T12:11:53Z" uid="54806" user="_al" changeset="5398390" lat="48.20345" lon="16.3751369">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Hegelgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="description" v="Allgemeinbildende höhere Schule"/>
+    <tag k="name" v="BORG für Musik und Kunst"/>
+    <tag k="note" v="Bundes-Oberstufenrealgymnasium Hegelgasse 12"/>
+    <tag k="phone" v="+43 (1) 5123937"/>
+    <tag k="ref" v="901066"/>
+    <tag k="website" v="http://h12.at/"/>
+  </node>
+  <node id="497155576" version="6" timestamp="2012-10-25T10:40:06Z" uid="712596" user="AMosm" changeset="13625798" lat="48.2030181" lon="16.3739957">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Schellinggasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="BRG 16 Schuhmeierplatz"/>
+    <tag k="note" v="Ersatzschulgebäude voraussichtlich bis incl. Schuljahr 2013/14"/>
+    <tag k="website" v="http://www.rg16.at/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="497155577" version="3" timestamp="2012-10-18T09:37:40Z" uid="712596" user="AMosm" changeset="13542054" lat="48.2028598" lon="16.3744354">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Hegelgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="ORG Hegelgasse 14"/>
+    <tag k="phone" v="+43 (1) 5125186"/>
+    <tag k="ref" v="901056"/>
+    <tag k="website" v="http://www.he14.at/"/>
+  </node>
+  <node id="497155578" version="4" timestamp="2010-12-04T17:13:09Z" uid="49642" user="realadry" changeset="6540477" lat="48.2015474" lon="16.3766125">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Beethovenplatz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="description" v="Allgemeinbildende höhere Schule"/>
+    <tag k="name" v="Akademisches Gymnasium"/>
+    <tag k="phone" v="+43 (1) 7131352"/>
+    <tag k="ref" v="901016"/>
+    <tag k="website" v="http://www.akg-wien.at/"/>
+  </node>
+  <node id="534805839" version="1" timestamp="2009-10-18T17:56:26Z" uid="131858" user="troy3w" changeset="2885927" lat="48.2818485" lon="16.4026949">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="GRG 21 Ödenburgerstraße"/>
+  </node>
+  <node id="534834069" version="1" timestamp="2009-10-18T18:42:22Z" uid="12295" user="mapper_07" changeset="2886610" lat="48.2292208" lon="16.4675826">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="553281142" version="2" timestamp="2011-12-05T21:22:53Z" uid="290680" user="wheelmap_visitor" changeset="10041344" lat="48.1668777" lon="16.3898443">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Bildungscampus Monte Laa"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="568793805" version="2" timestamp="2011-01-05T17:44:02Z" uid="60605" user="ch15" changeset="6874275" lat="48.0151719" lon="16.2908717">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Alle Kassen"/>
+  </node>
+  <node id="593214430" version="2" timestamp="2010-12-22T08:14:20Z" uid="54806" user="_al" changeset="6732964" lat="48.2980018" lon="16.5596289">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule"/>
+  </node>
+  <node id="593257286" version="4" timestamp="2012-10-16T10:52:35Z" uid="980408" user="ff-max" changeset="13516961" lat="48.2980204" lon="16.5587774">
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4-6"/>
+    <tag k="addr:postcode" v="2232"/>
+    <tag k="addr:street" v="Schulallee"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Oberstufen Realgymnasium"/>
+  </node>
+  <node id="599270240" version="1" timestamp="2009-12-25T15:31:40Z" uid="111529" user="ReinerMeyer" changeset="3448740" lat="47.9283713" lon="16.2185733">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule"/>
+  </node>
+  <node id="600537362" version="4" timestamp="2011-09-09T14:11:26Z" uid="189469" user="geojosef" changeset="9254477" lat="48.1696432" lon="16.2842414">
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="1130"/>
+    <tag k="addr:street" v="Speisinger Straße"/>
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="601443133" version="2" timestamp="2011-07-20T10:32:39Z" uid="456544" user="jueso2708" changeset="8777097" lat="48.3558331" lon="16.569104">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="611644540" version="2" timestamp="2012-06-01T01:21:05Z" uid="56501" user="Rudolf_H" changeset="11763412" lat="48.2187282" lon="16.4571441">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="1220"/>
+    <tag k="addr:street" v="Hardeggasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Maria Frieden"/>
+  </node>
+  <node id="612588392" version="1" timestamp="2010-01-12T22:23:28Z" uid="8048" user="waquner" changeset="3606711" lat="48.2428949" lon="16.3452967">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="billroth73 (GRG19)"/>
+  </node>
+  <node id="612588396" version="4" timestamp="2011-10-01T20:58:56Z" uid="51552" user="kfg" changeset="9446065" lat="48.2378871" lon="16.349481">
+    <tag k="addr:housenumber" v="26-30"/>
+    <tag k="addr:postcode" v="1190"/>
+    <tag k="addr:street" v="Billrothstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="GRG19 Gymnasium"/>
+  </node>
+  <node id="618265007" version="1" timestamp="2010-01-22T17:47:36Z" uid="222977" user="shorty58" changeset="3685098" lat="48.4653366" lon="16.7429231">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="621538752" version="6" timestamp="2010-05-06T19:13:10Z" uid="223371" user="luki79" changeset="4624468" lat="48.3087892" lon="16.3556735">
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule"/>
+    <tag k="website" v="www.musikschule-langenzersdorf.at"/>
+  </node>
+  <node id="622583697" version="3" timestamp="2013-04-23T13:04:16Z" uid="290680" user="wheelmap_visitor" changeset="15833711" lat="48.2602127" lon="16.3897507">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1210"/>
+    <tag k="addr:street" v="Dunantgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Henry-Dunant-Volksschule"/>
+    <tag k="ref" v="921081"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="638344664" version="1" timestamp="2010-02-13T12:05:09Z" uid="232975" user="bato65" changeset="3863946" lat="48.2877629" lon="15.9391604">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="VS Michelhausen"/>
+  </node>
+  <node id="638370005" version="2" timestamp="2012-01-14T11:38:47Z" uid="74896" user="tevake" changeset="10385955" lat="48.2678691" lon="16.6332506">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Markgrafneusiedl"/>
+  </node>
+  <node id="645630888" version="3" timestamp="2012-11-12T11:40:44Z" uid="289334" user="Soldier Boy" changeset="13845424" lat="48.2140996" lon="16.3462026">
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Feldgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="BRG/WRG Feldgasse"/>
+  </node>
+  <node id="649176957" version="4" timestamp="2013-02-04T16:25:57Z" uid="579739" user="grimnirson" changeset="14911810" lat="48.1785948" lon="16.3399513">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1120"/>
+    <tag k="addr:street" v="Deckergasse"/>
+    <tag k="alt_name" v="Öffentliche Volksschule der Stadt Wien Deckergasse 1"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Parkschule VS Deckergasse"/>
+  </node>
+  <node id="662872681" version="5" timestamp="2013-09-14T21:57:54Z" uid="1709435" user="egdd" changeset="17841027" lat="48.2016043" lon="16.3617599">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="GRG Rahlgasse"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="708998232" version="3" timestamp="2012-05-23T21:31:47Z" uid="164833" user="reclaM" changeset="11685026" lat="48.2289943" lon="16.3488182">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Albertus Magnus Schule"/>
+  </node>
+  <node id="731484429" version="2" timestamp="2010-05-18T10:58:11Z" uid="286421" user="drahdiwaberl" changeset="4737516" lat="48.3783268" lon="16.315081">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Leobendorf"/>
+  </node>
+  <node id="731484430" version="2" timestamp="2010-05-18T10:58:11Z" uid="286421" user="drahdiwaberl" changeset="4737516" lat="48.3790608" lon="16.3155316">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Kindergarten"/>
+  </node>
+  <node id="735611668" version="1" timestamp="2010-05-15T20:33:04Z" uid="39877" user="andreas_k" changeset="4710302" lat="48.2517837" lon="16.4010692">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1210"/>
+    <tag k="addr:street" v="Prießnitzgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule II"/>
+  </node>
+  <node id="746871894" version="3" timestamp="2011-10-08T14:03:25Z" uid="189469" user="geojosef" changeset="9502573" lat="48.1703716" lon="16.2868828">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="VHS Hietzing"/>
+    <tag k="website" v="http://www.vhs.at/279.html"/>
+  </node>
+  <node id="749934629" version="1" timestamp="2010-05-26T20:34:26Z" uid="47064" user="7503146" changeset="4816733" lat="48.4550571" lon="16.599219">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="768480524" version="1" timestamp="2010-06-10T09:56:47Z" uid="301998" user="OSMTestas" changeset="4952625" lat="48.1211008" lon="16.260429">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Bundesrealgymnasium Perchtoldsdorf"/>
+  </node>
+  <node id="789577594" version="1" timestamp="2010-06-25T10:50:42Z" uid="53306" user="Wolfgang B" changeset="5072624" lat="48.4077871" lon="16.0158038">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="791134632" version="4" timestamp="2013-11-03T08:36:32Z" uid="1714687" user="indagegend" changeset="18688497" lat="48.1752459" lon="16.4124516">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:district" v="11. Simmering"/>
+    <tag k="addr:postcode" v="1110"/>
+    <tag k="amenity" v="school"/>
+    <tag k="fixme" v="yes"/>
+    <tag k="name" v="KMS Enkplatz"/>
+  </node>
+  <node id="798779636" version="1" timestamp="2010-07-01T19:21:53Z" uid="312965" user="horia_m" changeset="5122991" lat="48.2195412" lon="16.3217498">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Wichtelgasse"/>
+  </node>
+  <node id="825445959" version="3" timestamp="2012-06-30T16:37:28Z" uid="715254" user="sc_art" changeset="12067372" lat="48.1853316" lon="16.0818234">
+    <tag k="addr:housename" v="Sacré Coeuer Pressbaum"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="3021"/>
+    <tag k="addr:street" v="Klostergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Sacré Coeur"/>
+  </node>
+  <node id="828022596" version="2" timestamp="2012-05-01T08:45:27Z" uid="536437" user="silviaCARTO" changeset="11467233" lat="48.1984175" lon="16.405108">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Kooperative Musikmittelschule"/>
+  </node>
+  <node id="830645080" version="2" timestamp="2011-07-15T11:32:26Z" uid="439883" user="romge" changeset="8730327" lat="48.1826571" lon="16.3610499">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="1050"/>
+    <tag k="addr:street" v="Gassergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="836223007" version="3" timestamp="2012-09-01T18:39:48Z" uid="758899" user="belosm2012" changeset="12945617" lat="48.1763312" lon="16.3137074">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="1130"/>
+    <tag k="addr:street" v="Grünbergstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="HBLFA Schönbrunn"/>
+    <tag k="website" v="www.gartenbau.at"/>
+  </node>
+  <node id="848109554" version="5" timestamp="2013-10-07T15:11:52Z" uid="461734" user="nebulon42" changeset="18231343" lat="48.1760898" lon="16.3692848">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="1100"/>
+    <tag k="addr:street" v="Van-der-Nüll-Gasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="private Volksschule"/>
+    <tag k="school" v="elementary"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="848217262" version="2" timestamp="2012-10-20T13:35:57Z" uid="712596" user="AMosm" changeset="13567785" lat="48.1762818" lon="16.3722057">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Ganztagesvolksschule Jagdgasse"/>
+  </node>
+  <node id="881145946" version="4" timestamp="2013-01-22T19:32:06Z" uid="337289" user="NSchoeberl" changeset="14749443" lat="47.9486574" lon="16.4051791">
+    <tag k="amenity" v="school"/>
+    <tag k="uploaded_by" v="Norbert Schöberl"/>
+  </node>
+  <node id="903919229" version="2" timestamp="2011-03-22T14:47:59Z" uid="99800" user="wolfbert" changeset="7637610" lat="48.3449709" lon="15.9113203">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Zwentendorf"/>
+  </node>
+  <node id="903919243" version="1" timestamp="2010-09-09T09:59:42Z" uid="136259" user="christophm" changeset="5731202" lat="48.3451439" lon="15.9112938">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule Zwentendorf"/>
+  </node>
+  <node id="903981692" version="2" timestamp="2011-10-31T06:38:28Z" uid="78656" user="Walter Schlögl" changeset="9700462" lat="47.9349535" lon="16.479037">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="913821149" version="1" timestamp="2010-09-15T18:47:33Z" uid="47064" user="7503146" changeset="5789713" lat="48.4620687" lon="16.6580329">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule"/>
+  </node>
+  <node id="922054411" version="3" timestamp="2013-10-07T12:46:04Z" uid="461734" user="nebulon42" changeset="18229077" lat="48.1805092" lon="16.3683174">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="1100"/>
+    <tag k="addr:street" v="Alxingergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="private Volksschule"/>
+  </node>
+  <node id="928623374" version="2" timestamp="2013-10-07T15:07:18Z" uid="461734" user="nebulon42" changeset="18231254" lat="48.1765847" lon="16.3720191">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:postcode" v="1100"/>
+    <tag k="addr:street" v="Pernerstorfergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule"/>
+  </node>
+  <node id="933310618" version="3" timestamp="2011-03-12T20:51:34Z" uid="93426" user="herrclaus" changeset="7538114" lat="48.0860553" lon="16.2472313">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Beethovengasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Hinterbrühl"/>
+    <tag k="website" v="www.vshinterbruehl.ac.at"/>
+  </node>
+  <node id="937449219" version="1" timestamp="2010-10-04T05:54:56Z" uid="54806" user="_al" changeset="5950494" lat="48.0862178" lon="16.2989196">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Hyrtlplatz"/>
+  </node>
+  <node id="948326953" version="5" timestamp="2013-10-07T13:31:55Z" uid="461734" user="nebulon42" changeset="18229732" lat="48.1773522" lon="16.3674131">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="1100"/>
+    <tag k="addr:street" v="Herzgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Kooperative Mittelschule Herzgasse"/>
+    <tag k="operator" v="Stadt Wien"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="963081348" version="3" timestamp="2010-10-24T09:53:33Z" uid="362172" user="K@rl" changeset="6154725" lat="48.0807237" lon="16.2316069">
+    <tag k="amenity" v="school"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Karl Trenker Hauptschule Hinterbrühl"/>
+  </node>
+  <node id="963231881" version="1" timestamp="2010-10-24T12:00:21Z" uid="78656" user="Walter Schlögl" changeset="6155851" lat="48.1173046" lon="16.200038">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="985785812" version="5" timestamp="2011-12-02T08:08:46Z" uid="26818" user="David &amp; Christine Schmitt" changeset="10014813" lat="48.2108628" lon="16.3496125">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Piaristengymnasium"/>
+  </node>
+  <node id="989537950" version="1" timestamp="2010-11-15T00:43:49Z" uid="94374" user="Flecki89" changeset="6374428" lat="48.0121768" lon="16.2402395">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Kindergarten"/>
+  </node>
+  <node id="1022767640" version="1" timestamp="2010-12-05T14:49:00Z" uid="379834" user="krumboeck" changeset="6551490" lat="48.1452023" lon="16.2907951">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Mittelschule Steinergasse"/>
+  </node>
+  <node id="1037190508" version="1" timestamp="2010-12-13T13:33:10Z" uid="383244" user="Bal OpenStreetMap" changeset="6647664" lat="48.1394711" lon="16.4787225">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Grundschule Schwechat"/>
+  </node>
+  <node id="1037190509" version="1" timestamp="2010-12-13T13:33:10Z" uid="383244" user="Bal OpenStreetMap" changeset="6647664" lat="48.1398506" lon="16.4792697">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="BG/BRG Schwechat"/>
+  </node>
+  <node id="1039340589" version="3" timestamp="2011-12-20T08:29:28Z" uid="202392" user="imagic" changeset="10161693" lat="48.2540638" lon="16.4299504">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Institut für Populationsgenetik"/>
+    <tag k="name:en" v="Institute for Population Genetics"/>
+  </node>
+  <node id="1049021249" version="1" timestamp="2010-12-19T14:47:56Z" uid="311798" user="chrisiwu" changeset="6706690" lat="48.1384705" lon="15.9115232">
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="3052"/>
+    <tag k="addr:street" v="Neustift"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Neustift-Innermanzing"/>
+  </node>
+  <node id="1091925285" version="3" timestamp="2012-12-11T00:13:07Z" uid="145231" user="woodpeck_repair" changeset="14229400" lat="48.387245" lon="16.2125527">
+    <tag k="amenity" v="school"/>
+    <tag k="building" v="entrance"/>
+    <tag k="name" v="Musikschule Stockerau"/>
+  </node>
+  <node id="1119749020" version="6" timestamp="2012-10-30T06:59:23Z" uid="399867" user="jb79a" changeset="13682855" lat="48.4357959" lon="15.9008119">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="1119749021" version="5" timestamp="2012-10-30T06:59:23Z" uid="399867" user="jb79a" changeset="13682855" lat="48.4352459" lon="15.9003827">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule und Polytechnischer Lehrgang"/>
+  </node>
+  <node id="1119885972" version="4" timestamp="2013-09-29T14:47:30Z" uid="433361" user="Dima M" changeset="18094018" lat="48.2245632" lon="16.3388538">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:postcode" v="1180"/>
+    <tag k="addr:street" v="Schopenhauerstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="BRG Wien 18 Schopenhauerstraße"/>
+    <tag k="source" v="ViennaGIS"/>
+  </node>
+  <node id="1149249465" version="1" timestamp="2011-02-12T16:46:22Z" uid="111529" user="ReinerMeyer" changeset="7266468" lat="47.995847" lon="16.0493586">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Waldschule Neuhaus"/>
+  </node>
+  <node id="1164745033" version="2" timestamp="2012-09-04T14:24:35Z" uid="712596" user="AMosm" changeset="12982633" lat="48.2292657" lon="16.3394235">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="1180"/>
+    <tag k="addr:street" v="Haizingergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="GWIKU 18 Haizingergasse"/>
+  </node>
+  <node id="1167780784" version="1" timestamp="2011-02-23T08:55:12Z" uid="412211" user="tschuls0505" changeset="7370433" lat="48.2413401" lon="16.3548096">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Schule Maria Regina"/>
+  </node>
+  <node id="1167908666" version="2" timestamp="2012-11-23T18:40:56Z" uid="290680" user="wheelmap_visitor" changeset="14002916" lat="48.2289574" lon="16.3310062">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hans Radl Schule"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1190801222" version="2" timestamp="2011-11-03T13:18:35Z" uid="290680" user="wheelmap_visitor" changeset="9727851" lat="47.9960304" lon="16.3410891">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Trumau"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1210981058" version="1" timestamp="2011-03-20T19:39:19Z" uid="232372" user="wosm20" changeset="7620778" lat="48.2392188" lon="16.3863599">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="83-97/R1"/>
+    <tag k="addr:postcode" v="1200"/>
+    <tag k="addr:street" v="Engerthstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="email" v="sprach.kult@chello.at"/>
+    <tag k="fax" v="+4319425959"/>
+    <tag k="name" v="sprach.kult"/>
+    <tag k="phone" v="+436769512095"/>
+    <tag k="website" v="http://www.sprach-kult.at/"/>
+  </node>
+  <node id="1255046342" version="1" timestamp="2011-04-22T06:31:04Z" uid="411359" user="Thomas Passauer" changeset="7931253" lat="48.174271" lon="16.4120715">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musik- und Singschule Wien"/>
+  </node>
+  <node id="1255046427" version="1" timestamp="2011-04-22T06:31:06Z" uid="411359" user="Thomas Passauer" changeset="7931253" lat="48.174124" lon="16.4120371">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volkshochschule Simmering"/>
+  </node>
+  <node id="1319048288" version="2" timestamp="2013-02-26T13:04:49Z" uid="579739" user="grimnirson" changeset="15173038" lat="48.1886436" lon="16.3508658">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="1050"/>
+    <tag k="addr:street" v="Bräuhausgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule Margareten"/>
+  </node>
+  <node id="1320888090" version="1" timestamp="2011-06-11T21:22:25Z" uid="469001" user="bau_ch" changeset="8409905" lat="48.2974296" lon="16.3354167">
+    <tag k="addr:housename" v="GaLeMo"/>
+    <tag k="addr:housenumber" v="27a"/>
+    <tag k="addr:postcode" v="3400"/>
+    <tag k="addr:street" v="Aufeldgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="int_name" v="Montessori school"/>
+    <tag k="name" v="GaLeMo"/>
+  </node>
+  <node id="1320928831" version="2" timestamp="2012-03-11T06:42:23Z" uid="54806" user="_al" changeset="10939364" lat="48.1824194" lon="16.3494754">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1050"/>
+    <tag k="addr:street" v="Johannagasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="VHS polycollege"/>
+  </node>
+  <node id="1325829129" version="2" timestamp="2011-06-15T18:03:44Z" uid="70696" user="xybot" changeset="8449297" lat="48.1826804" lon="16.3513532">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="1050"/>
+    <tag k="addr:street" v="Einsiedlergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Einsiedlergasse 7"/>
+  </node>
+  <node id="1325829600" version="2" timestamp="2011-06-15T18:03:46Z" uid="70696" user="xybot" changeset="8449297" lat="48.1824361" lon="16.3506411">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="1050"/>
+    <tag k="addr:street" v="Diehlgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Allgemeine Sonderschule Diehlgasse 2"/>
+  </node>
+  <node id="1343741824" version="2" timestamp="2013-03-16T07:21:24Z" uid="290680" user="wheelmap_visitor" changeset="15380769" lat="48.2193191" lon="16.3098229">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Odoakergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="VS 16, Odoakergasse"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1347957869" version="2" timestamp="2011-07-07T20:25:22Z" uid="435488" user="zauni" changeset="8660951" lat="48.2575039" lon="16.4563222">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule der Stadt Wien"/>
+  </node>
+  <node id="1347957870" version="2" timestamp="2011-07-07T20:25:22Z" uid="435488" user="zauni" changeset="8660951" lat="48.2570757" lon="16.457392">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule der Stadt Wien"/>
+  </node>
+  <node id="1362663760" version="1" timestamp="2011-07-15T11:31:28Z" uid="439883" user="romge" changeset="8730327" lat="48.1827912" lon="16.3614296">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="1050"/>
+    <tag k="addr:street" v="Gassergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule"/>
+  </node>
+  <node id="1363290581" version="3" timestamp="2012-10-20T13:38:27Z" uid="712596" user="AMosm" changeset="13567812" lat="48.2683781" lon="16.3883678">
+    <tag k="addr:housename" v="Volksschule Schillgasse"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="1210"/>
+    <tag k="addr:street" v="Schillgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Schillgasse"/>
+  </node>
+  <node id="1374126578" version="1" timestamp="2011-07-25T19:22:36Z" uid="494809" user="BlueWalker" changeset="8829278" lat="48.3339423" lon="16.4090493">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="1379020366" version="1" timestamp="2011-07-30T17:23:12Z" uid="489740" user="bernluk" changeset="8874042" lat="48.0264569" lon="16.3043989">
+    <tag k="addr:housenumber" v="1-3"/>
+    <tag k="addr:postcode" v="2514"/>
+    <tag k="addr:street" v="Guntramsdorfer Straße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="int_name" v="Groundschool of Möllersdorf"/>
+    <tag k="name" v="Volksschule Möllersdorf"/>
+  </node>
+  <node id="1420000790" version="1" timestamp="2011-09-01T11:19:34Z" uid="515222" user="Lion&apos;s City" changeset="9183636" lat="48.2040974" lon="16.3948991">
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Hörnesgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="KMS Hörnesgasse"/>
+  </node>
+  <node id="1428953231" version="1" timestamp="2011-09-10T14:14:48Z" uid="518893" user="ultra_runner" changeset="9262384" lat="48.2099522" lon="16.3762272">
+    <tag k="addr:housename" v="Montessori-Schule im Heiligenkreuzerhof"/>
+    <tag k="addr:housenumber" v="3/7"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Grashofgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Montessori-Schule im Heiligenkreuzerhof"/>
+  </node>
+  <node id="1436286235" version="2" timestamp="2012-01-13T16:17:26Z" uid="38255" user="BearT" changeset="10379874" lat="48.1928756" lon="16.3975056">
+    <tag k="addr:housenumber" v="146"/>
+    <tag k="addr:postcode" v="1030"/>
+    <tag k="addr:street" v="Landstraßer Hauptstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="GTVS3"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="1438302043" version="3" timestamp="2012-10-14T21:08:46Z" uid="433361" user="Dima M" changeset="13498854" lat="48.2411202" lon="16.3514216">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="1190"/>
+    <tag k="addr:street" v="Pyrkergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="kooperative Mittelschule"/>
+  </node>
+  <node id="1438302065" version="5" timestamp="2013-01-05T14:53:14Z" uid="1187572" user="afxd" changeset="14537482" lat="48.2400482" lon="16.3521915">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="1190"/>
+    <tag k="addr:street" v="Kreindlgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule"/>
+  </node>
+  <node id="1439094480" version="1" timestamp="2011-09-21T08:49:35Z" uid="524313" user="kerrad" changeset="9357952" lat="48.1944248" lon="16.3663302">
+    <tag k="amenity" v="school"/>
+    <tag k="int_name" v="www.learn-quick.at"/>
+    <tag k="name" v="Learn quick"/>
+  </node>
+  <node id="1439210077" version="1" timestamp="2011-09-21T11:15:28Z" uid="302363" user="fkv" changeset="9359464" lat="48.131694" lon="16.3090283">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="BIT"/>
+  </node>
+  <node id="1444705271" version="1" timestamp="2011-09-24T15:59:29Z" uid="47892" user="richlv" changeset="9385381" lat="48.2365067" lon="16.4241104">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Schule der Stadt Wien"/>
+  </node>
+  <node id="1460979655" version="2" timestamp="2012-12-26T00:23:41Z" uid="470196" user="wipu" changeset="14407015" lat="48.1982401" lon="16.344804">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="4. Zentral-Berufsschule"/>
+  </node>
+  <node id="1462114321" version="3" timestamp="2012-10-29T12:11:27Z" uid="712596" user="AMosm" changeset="13673087" lat="48.2077424" lon="16.3875193">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Ausbildungszentrum"/>
+  </node>
+  <node id="1462114326" version="3" timestamp="2012-08-16T14:22:13Z" uid="712596" user="AMosm" changeset="12751478" lat="48.2064205" lon="16.3882664">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Meridian Sprachenzentrum"/>
+  </node>
+  <node id="1467051530" version="1" timestamp="2011-10-14T13:45:59Z" uid="537635" user="da_fue" changeset="9555544" lat="48.1909807" lon="16.3279035">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="ABC Lernhaus"/>
+  </node>
+  <node id="1467137868" version="1" timestamp="2011-10-14T14:31:41Z" uid="536474" user="Monstera" changeset="9555953" lat="48.2228211" lon="16.3562012">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="ESI Institut für Mathematische Physik"/>
+  </node>
+  <node id="1467865015" version="1" timestamp="2011-10-15T06:26:42Z" uid="534049" user="arinna" changeset="9560720" lat="48.2296128" lon="16.3726189">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Afterwork Academy"/>
+  </node>
+  <node id="1501815140" version="1" timestamp="2011-11-13T18:27:19Z" uid="78656" user="Walter Schlögl" changeset="9817402" lat="48.2116213" lon="16.3839142">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Uraniastraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="description" v="Volksbildungshaus Wiener Urania, Volkshochschule"/>
+    <tag k="name" v="Urania Volkshochschule"/>
+    <tag k="wikipedia:de" v="Urania (Wien)"/>
+  </node>
+  <node id="1501877914" version="2" timestamp="2013-07-01T11:33:08Z" uid="478912" user="Twix73" changeset="16776279" lat="47.9916362" lon="16.6588325">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Sommerein"/>
+  </node>
+  <node id="1501971044" version="3" timestamp="2013-09-08T07:21:16Z" uid="1714687" user="indagegend" changeset="17727503" lat="48.2414353" lon="16.4326257">
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="1220"/>
+    <tag k="addr:street" v="Wagramer Straße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Berufsschule für Baugewerbe"/>
+  </node>
+  <node id="1509288828" version="5" timestamp="2012-08-21T14:43:10Z" uid="290680" user="wheelmap_visitor" changeset="12803660" lat="48.2108308" lon="16.3325841">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="VS-Grundsteingasse"/>
+    <tag k="wheelchair" v="unknown"/>
+  </node>
+  <node id="1591079448" version="2" timestamp="2012-12-20T11:08:22Z" uid="303158" user="stefanct" changeset="14341714" lat="48.2014149" lon="16.3622706">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="1636994470" version="1" timestamp="2012-02-17T20:55:16Z" uid="48437" user="svd" changeset="10715110" lat="48.2916845" lon="16.4167249">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volkshochschule Floridsdorf Zweigstelle Neu-Stammersdorf"/>
+    <tag k="school:type" v="Volkshochschule"/>
+  </node>
+  <node id="1652987258" version="1" timestamp="2012-02-29T16:50:08Z" uid="274701" user="Jimmy_K" changeset="10829807" lat="48.3458234" lon="16.335287">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule"/>
+    <tag k="source" v="wheelmap.org"/>
+    <tag k="wheelchair" v="unknown"/>
+  </node>
+  <node id="1666470647" version="2" timestamp="2012-05-10T19:14:04Z" uid="110497" user="martinq" changeset="11561969" lat="48.3703887" lon="16.5234841">
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="2120"/>
+    <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Polytechnische Schule Wolkersdorf"/>
+  </node>
+  <node id="1673889230" version="1" timestamp="2012-03-13T21:34:20Z" uid="32011" user="Velociraptor" changeset="10972240" lat="48.3620642" lon="16.5394846">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="1676548634" version="2" timestamp="2012-03-16T14:32:01Z" uid="630401" user="ancpru" changeset="10998848" lat="48.0020106" lon="16.2187586">
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Radetzkystraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Weikersdorf"/>
+  </node>
+  <node id="1678621396" version="1" timestamp="2012-03-17T19:09:02Z" uid="202392" user="imagic" changeset="11011445" lat="47.962304" lon="16.3994514">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volkshochschule"/>
+  </node>
+  <node id="1679546494" version="3" timestamp="2013-03-03T22:52:22Z" uid="579739" user="grimnirson" changeset="15240847" lat="48.1854134" lon="16.3261305">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="1150"/>
+    <tag k="addr:street" v="Rauchfangkehrergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Islamisches Realgymnasium Wien"/>
+  </node>
+  <node id="1685267755" version="2" timestamp="2012-06-12T14:47:27Z" uid="662223" user="Soňa" changeset="11875238" lat="48.225447" lon="16.3389352">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="1180"/>
+    <tag k="addr:street" v="Schulgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Schule der Stadt Wien"/>
+    <tag k="source" v="ViennaGIS"/>
+  </node>
+  <node id="1686479657" version="2" timestamp="2012-03-22T23:58:50Z" uid="636837" user="fridericus" changeset="11069137" lat="48.1705604" lon="16.3518947">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule Knöllgasse"/>
+  </node>
+  <node id="1686480061" version="1" timestamp="2012-03-22T23:58:34Z" uid="636837" user="fridericus" changeset="11069137" lat="48.1709789" lon="16.352297">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Knöllgasse"/>
+  </node>
+  <node id="1691725296" version="1" timestamp="2012-03-26T09:43:28Z" uid="99800" user="wolfbert" changeset="11103947" lat="48.2158561" lon="16.3780482">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="2c"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Kleine Sperlgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="fixme" v="Position und Gelände"/>
+    <tag k="name" v="Sperlgymnasium"/>
+  </node>
+  <node id="1701363961" version="1" timestamp="2012-04-04T18:00:27Z" uid="298560" user="evod" changeset="11179779" lat="48.2228383" lon="16.3650633">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Hahngasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Fachschule für wirtschaftliche Berufe"/>
+    <tag k="ref" v="FS09"/>
+  </node>
+  <node id="1701364332" version="4" timestamp="2013-10-06T20:04:59Z" uid="461734" user="nebulon42" changeset="18219478" lat="48.2228731" lon="16.3647239">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="D&apos;Orsaygasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule Alsergrund"/>
+    <tag k="ref" v="MS09"/>
+    <tag k="website" v="http://www.musikundsingschule.wien.at"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1705455271" version="1" timestamp="2012-04-07T08:18:01Z" uid="649672" user="dsteiner1992" changeset="11210495" lat="48.2962079" lon="16.3888237">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Gymnasium De La Salle Schule Strebersdorf"/>
+  </node>
+  <node id="1705455572" version="1" timestamp="2012-04-07T08:18:52Z" uid="649672" user="dsteiner1992" changeset="11210495" lat="48.2969234" lon="16.3887432">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Voklsschule De La Salle Schule Strebersdorf"/>
+  </node>
+  <node id="1705455863" version="1" timestamp="2012-04-07T08:20:19Z" uid="649672" user="dsteiner1992" changeset="11210495" lat="48.2902993" lon="16.3835076">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="1710521146" version="1" timestamp="2012-04-10T20:17:11Z" uid="391462" user="Michael Kiesenhofer" changeset="11257729" lat="48.4752581" lon="16.4207348">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Großrußbach"/>
+  </node>
+  <node id="1712540649" version="5" timestamp="2012-08-28T12:20:42Z" uid="70696" user="xybot" changeset="12891138" lat="48.1962099" lon="15.9016264">
+    <tag k="addr:housename" v="BORG Neulengbach"/>
+    <tag k="addr:housenumber" v="440"/>
+    <tag k="addr:postcode" v="3040"/>
+    <tag k="addr:street" v="Sindelarstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="int_name" v="Senior High School Neulengbach"/>
+    <tag k="name" v="BORG Neulengbach"/>
+  </node>
+  <node id="1717933619" version="2" timestamp="2012-10-19T08:43:17Z" uid="712596" user="AMosm" changeset="13553936" lat="48.2097023" lon="16.34133">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="KMS + VS Pfeilgasse"/>
+    <tag k="note" v="VS: zertifizierte begabungsfördernde Schule; VS+KMS: Schulversuch Schulgemeinschaft Mehrstufenklasse 6-14 Jahre"/>
+  </node>
+  <node id="1717933620" version="2" timestamp="2012-06-28T08:26:42Z" uid="473925" user="caigner" changeset="12044169" lat="48.2125882" lon="16.3159182">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4-6"/>
+    <tag k="addr:postcode" v="1160"/>
+    <tag k="addr:street" v="Grubergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="VS Grubergasse"/>
+    <tag k="website" v="http://www.vs-grubergasse.at"/>
+  </node>
+  <node id="1729200888" version="2" timestamp="2012-08-28T11:54:02Z" uid="579739" user="grimnirson" changeset="12891491" lat="48.1910293" lon="16.3680428">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="07"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Schaumburgergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Schule Der Stadt Wien"/>
+  </node>
+  <node id="1732221499" version="3" timestamp="2012-12-07T15:37:53Z" uid="78656" user="Walter Schlögl" changeset="14189290" lat="48.1925158" lon="16.3693198">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housename" v="Volkshochschule Wien"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Danhausergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volkshochschule Wien"/>
+  </node>
+  <node id="1732221500" version="3" timestamp="2012-10-12T16:41:36Z" uid="712596" user="AMosm" changeset="13469269" lat="48.1913993" lon="16.3687204">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housename" v="Volksschule"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Graf-Starhemberg-Gasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule der Stadt Wien"/>
+  </node>
+  <node id="1732221502" version="4" timestamp="2012-08-28T11:54:02Z" uid="579739" user="grimnirson" changeset="12891491" lat="48.1926232" lon="16.3694201">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housename" v="Polycollege"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Danhausergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Polycollege"/>
+  </node>
+  <node id="1759372164" version="1" timestamp="2012-05-20T07:21:58Z" uid="685404" user="Benyamin" changeset="11648642" lat="48.0169045" lon="16.2644546">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Pfaffstätten"/>
+  </node>
+  <node id="1770758955" version="1" timestamp="2012-05-30T20:22:59Z" uid="579739" user="grimnirson" changeset="11752264" lat="48.2115155" lon="16.3692494">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Judenplatz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="description" v="Private Volksschule der Erzdiözese Wien"/>
+    <tag k="name" v="pVS Judenplatz"/>
+    <tag k="ref" v="901031"/>
+    <tag k="website" v="http://www.pvs-judenplatz.at"/>
+  </node>
+  <node id="1775817208" version="1" timestamp="2012-06-04T07:54:55Z" uid="13774" user="thomas_p75" changeset="11793709" lat="47.904983" lon="16.390371">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="1785322411" version="2" timestamp="2012-07-21T07:53:23Z" uid="54806" user="_al" changeset="12402839" lat="48.1931998" lon="16.3536672">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Freie Schule"/>
+    <tag k="website" v="http://www.freieschule.net/"/>
+  </node>
+  <node id="1795639198" version="2" timestamp="2012-06-20T13:16:33Z" uid="479400" user="erwin6330" changeset="11958700" lat="48.0810145" lon="16.4369581">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule"/>
+    <tag k="source" v="geoimage.at MaxRes"/>
+  </node>
+  <node id="1795639382" version="1" timestamp="2012-06-20T13:12:03Z" uid="479400" user="erwin6330" changeset="11958663" lat="48.0809186" lon="16.4380284">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+    <tag k="source" v="geoimage.at MaxRes"/>
+  </node>
+  <node id="1804086798" version="1" timestamp="2012-06-27T16:24:47Z" uid="713765" user="Schlumpus Schlompf" changeset="12038469" lat="48.1765541" lon="16.3622875">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volks- und Sonderschule"/>
+  </node>
+  <node id="1846847175" version="1" timestamp="2012-08-01T13:15:52Z" uid="227576" user="LordVan" changeset="12574128" lat="48.2820989" lon="16.0296502">
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="3441"/>
+    <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Judenau-Baumgarten"/>
+  </node>
+  <node id="1846906867" version="3" timestamp="2013-12-11T20:41:58Z" uid="298560" user="evod" changeset="19402147" lat="48.2121743" lon="16.3532813">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="1080"/>
+    <tag k="addr:street" v="Florianigasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Le Bon Mot Französischinstitut"/>
+    <tag k="source" v="www.franzoesisch-lernen.at"/>
+    <tag k="website" v="www.franzoesisch-lernen.at"/>
+  </node>
+  <node id="1852161228" version="3" timestamp="2013-04-20T17:19:50Z" uid="290680" user="wheelmap_visitor" changeset="15799075" lat="48.2259516" lon="16.310059">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Integrative Schule Hernals"/>
+    <tag k="note" v="Volks-, Haupt- und Sonderschule für körperbehinderte und nicht behinderte Kinder"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1859328753" version="1" timestamp="2012-08-09T19:56:16Z" uid="302363" user="fkv" changeset="12672980" lat="47.9600765" lon="16.7951448">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="1860532529" version="2" timestamp="2012-10-19T08:43:17Z" uid="712596" user="AMosm" changeset="13553936" lat="48.2426909" lon="16.3374053">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="KMS In der Krim"/>
+    <tag k="note" v="Kooperative Mittelschule und Bilinguale Mittelschule"/>
+  </node>
+  <node id="1866369823" version="4" timestamp="2013-10-24T11:04:32Z" uid="1714687" user="indagegend" changeset="18517830" lat="48.2463812" lon="16.4384158">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:district" v="22. Donaustadt"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1220"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Meißnergasse"/>
+  </node>
+  <node id="1870541238" version="1" timestamp="2012-08-17T20:14:31Z" uid="758899" user="belosm2012" changeset="12766750" lat="48.1900442" lon="16.3244459">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule Rudolfsheim-Fünfhaus"/>
+  </node>
+  <node id="1871034948" version="1" timestamp="2012-08-18T08:39:42Z" uid="781412" user="TBKMrt" changeset="12770478" lat="48.1362224" lon="16.2753018">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="1928477781" version="1" timestamp="2012-09-23T04:58:27Z" uid="904390" user="sscala" changeset="13215469" lat="48.2631127" lon="16.7001629">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Landwirtschaftliche Fachschule"/>
+  </node>
+  <node id="1928546445" version="1" timestamp="2012-09-23T07:39:13Z" uid="904390" user="sscala" changeset="13216185" lat="48.2652128" lon="16.706949">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="1949914320" version="1" timestamp="2012-10-06T21:13:41Z" uid="941831" user="Hr Knäcke" changeset="13390495" lat="48.2244714" lon="16.6905129">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="2285"/>
+    <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule SHS Leopoldsdorf"/>
+  </node>
+  <node id="1967273261" version="1" timestamp="2012-10-15T18:54:33Z" uid="908743" user="Girolamo" changeset="13509896" lat="48.2181099" lon="16.3645368">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1090"/>
+    <tag k="addr:street" v="Schlickgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Österreichisches Lateinamerika-Institut"/>
+  </node>
+  <node id="1968244562" version="1" timestamp="2012-10-16T10:52:34Z" uid="980408" user="ff-max" changeset="13516961" lat="48.2978761" lon="16.5587981">
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4-6"/>
+    <tag k="addr:postcode" v="2232"/>
+    <tag k="addr:street" v="Schulallee"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="NÖ Mittelschule"/>
+  </node>
+  <node id="1968244564" version="1" timestamp="2012-10-16T10:52:34Z" uid="980408" user="ff-max" changeset="13516961" lat="48.2975615" lon="16.5590998">
+    <tag k="addr:city" v="Deutsch Wagram"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="2232"/>
+    <tag k="addr:street" v="Schulallee"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule"/>
+  </node>
+  <node id="1972147434" version="1" timestamp="2012-10-18T13:14:37Z" uid="908743" user="Girolamo" changeset="13544438" lat="48.2231877" lon="16.3666376">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Caritas Ausbildungszentrum für Sozialberufe"/>
+  </node>
+  <node id="1975050259" version="2" timestamp="2013-02-04T16:25:57Z" uid="579739" user="grimnirson" changeset="14911810" lat="48.1781322" lon="16.3401798">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="1120"/>
+    <tag k="addr:street" v="Karl-Löwe-Gasse"/>
+    <tag k="alt_name" v="Reformpädagogisch orientierte Volksschule der Stadt Wien Karl-Löwe-Gasse 20"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Karl-Löwe-Gasse"/>
+  </node>
+  <node id="1975692463" version="2" timestamp="2013-03-29T22:09:32Z" uid="579739" user="grimnirson" changeset="15544892" lat="48.1949041" lon="16.347945">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Loquaiplatz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Wiener Mittelschule Loquaiplatz"/>
+    <tag k="website" v="https://loquai.schule.wien.at/"/>
+  </node>
+  <node id="1979161687" version="2" timestamp="2012-11-06T10:00:02Z" uid="54806" user="_al" changeset="13771049" lat="48.1945776" lon="16.365644">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Schäffergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="full_name" v="GEPS Volksschule Schäffergasse 3"/>
+    <tag k="name" v="Volksschule Schäffergasse"/>
+    <tag k="ref" v="904031"/>
+    <tag k="website" v="http://www.schaeffergasse.at/"/>
+  </node>
+  <node id="1979161699" version="2" timestamp="2012-11-06T10:00:02Z" uid="54806" user="_al" changeset="13771049" lat="48.1944437" lon="16.3658032">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Schäffergasse"/>
+    <tag k="alt_name" v="KMS NTS 4"/>
+    <tag k="amenity" v="school"/>
+    <tag k="full_name" v="Kooperative Mittelschule mit naturkundlich-technischem Schwerpunkt 1040"/>
+    <tag k="name" v="Kooperative Mittelschule"/>
+    <tag k="ref" v="904012"/>
+    <tag k="website" v="http://www.schulen.wien.at/schulen/904012/"/>
+  </node>
+  <node id="1997894837" version="1" timestamp="2012-11-04T23:14:22Z" uid="579739" user="grimnirson" changeset="13754968" lat="48.1923681" lon="16.3446771">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="KMS St. Marien"/>
+  </node>
+  <node id="2049413799" version="3" timestamp="2013-02-17T09:36:15Z" uid="433361" user="Dima M" changeset="15060882" lat="48.2359625" lon="16.3203274">
+    <tag k="addr:housenumber" v="36-38, house 3"/>
+    <tag k="addr:postcode" v="1180"/>
+    <tag k="addr:street" v="Bastiengasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="designation" v="Elementary School, High School"/>
+    <tag k="int_name" v="AMADEUS Vienna"/>
+    <tag k="name" v="AMADEUS International School Vienna"/>
+    <tag k="old_name" v="Semmelweis areal"/>
+    <tag k="source" v="www.amadeus-vienna.com"/>
+    <tag k="website" v="http://www.amadeus-vienna.com"/>
+  </node>
+  <node id="2088081749" version="2" timestamp="2012-12-30T05:07:40Z" uid="60833" user="wafi" changeset="14459683" lat="48.4280398" lon="16.1683156">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Sierndorf"/>
+  </node>
+  <node id="2143969542" version="1" timestamp="2013-02-06T13:09:40Z" uid="1199260" user="mozart40" changeset="14933286" lat="48.1525468" lon="16.2703092">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Karl Schubert Schule"/>
+  </node>
+  <node id="2181036989" version="4" timestamp="2013-05-28T11:42:04Z" uid="433361" user="Dima M" changeset="16322567" lat="48.233779" lon="16.3247311">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="1180"/>
+    <tag k="addr:street" v="Bischof-Faber-Platz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Wien XVIII Bischof-Faber-Platz"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2213221053" version="1" timestamp="2013-03-21T16:36:54Z" uid="1234951" user="simon_sagt_" changeset="15444485" lat="48.2984658" lon="16.5617165">
+    <tag k="addr:postcode" v="2232"/>
+    <tag k="addr:street" v="Friedhofalle"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule"/>
+  </node>
+  <node id="2215011595" version="1" timestamp="2013-03-22T19:01:31Z" uid="298560" user="evod" changeset="15457895" lat="48.256171" lon="16.4100708">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="VS Mengergasse"/>
+    <tag k="website" v="http://www.vsmengergasse33.at"/>
+  </node>
+  <node id="2292961327" version="4" timestamp="2013-12-14T17:29:45Z" uid="390669" user="KrilleOSM" changeset="19452099" lat="48.1771057" lon="16.3655143">
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:postcode" v="1100"/>
+    <tag k="addr:street" v="Pernerstorfergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="BHAS &amp; BHAK Wien 10"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2308726472" version="1" timestamp="2013-05-17T19:42:35Z" uid="1459959" user="ivoelkermichael" changeset="16172065" lat="48.463284" lon="16.2975476">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="VS Niederfellabrunn"/>
+  </node>
+  <node id="2319839598" version="2" timestamp="2013-06-24T11:16:01Z" uid="478912" user="Twix73" changeset="16682735" lat="48.1163714" lon="16.613316">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule Fischamend"/>
+  </node>
+  <node id="2322308805" version="1" timestamp="2013-05-27T19:09:14Z" uid="1386807" user="legatron" changeset="16314321" lat="48.2087256" lon="16.3080264">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="2330090586" version="1" timestamp="2013-06-03T00:11:36Z" uid="240649" user="bop3" changeset="16399443" lat="48.2998321" lon="16.4141432">
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="2330846968" version="1" timestamp="2013-06-03T18:00:23Z" uid="1512925" user="karabey" changeset="16410257" lat="48.185929" lon="16.338851">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Taxischule Arslan"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2336544940" version="1" timestamp="2013-06-07T22:58:20Z" uid="1506246" user="DerPetzi" changeset="16463500" lat="48.3240819" lon="16.2105297">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Hauptschule St. Andrä-Wördern"/>
+  </node>
+  <node id="2353289551" version="2" timestamp="2013-06-20T10:10:50Z" uid="1553193" user="GerhardPuOn" changeset="16627772" lat="48.2060938" lon="16.1734485">
+    <tag k="addr:housename" v="Bildungszentrum"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="3002"/>
+    <tag k="addr:street" v="Schwarzhubergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Sonderpädagogisches Zentrum"/>
+  </node>
+  <node id="2353293647" version="1" timestamp="2013-06-20T10:12:07Z" uid="1553193" user="GerhardPuOn" changeset="16627772" lat="48.20621" lon="16.1735745">
+    <tag k="addr:housename" v="Bildungszentrum"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="3002"/>
+    <tag k="addr:street" v="Schwarzhubergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Musikschule"/>
+  </node>
+  <node id="2358496716" version="1" timestamp="2013-06-24T11:09:42Z" uid="478912" user="Twix73" changeset="16682569" lat="48.1133772" lon="16.6125356">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Allg. Sonderschule Fischamend"/>
+  </node>
+  <node id="2383558932" version="1" timestamp="2013-07-13T18:49:54Z" uid="1223996" user="gerdi4711" changeset="16940331" lat="48.1766231" lon="16.3753648">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="30-32"/>
+    <tag k="addr:postcode" v="1100"/>
+    <tag k="addr:street" v="Pernersdorfergasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Polytechnische Schule"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Stufen"/>
+  </node>
+  <node id="2383562972" version="2" timestamp="2013-07-13T18:53:31Z" uid="1223996" user="gerdi4711" changeset="16940331" lat="48.177022" lon="16.3754037">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:postcode" v="1100"/>
+    <tag k="addr:street" v="Erlachgasse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Polytechnische Schule"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Stufen"/>
+  </node>
+  <node id="2434565914" version="3" timestamp="2013-09-12T20:19:11Z" uid="155833" user="Ravu al Hemio" changeset="17807067" lat="48.2322513" lon="16.4514603">
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Polgarstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="BG/BRG/BORG Polgarstraße"/>
+  </node>
+  <node id="2450220997" version="2" timestamp="2013-09-12T20:19:11Z" uid="155833" user="Ravu al Hemio" changeset="17807067" lat="48.2325652" lon="16.4517846">
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="1220"/>
+    <tag k="addr:street" v="Polgarstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="BHAK Polgarstraße"/>
+  </node>
+  <node id="2578663567" version="1" timestamp="2013-12-13T21:05:00Z" uid="1841910" user="rayni" changeset="19439825" lat="48.1075142" lon="16.3969743">
+    <tag k="addr:city" v="Leopoldsdorf"/>
+    <tag k="addr:housename" v="Volksschule"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="2333"/>
+    <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Volksschule Leopoldsdorf"/>
+  </node>
+</osm>
