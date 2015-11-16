@@ -1,1 +1,3 @@
 .vagrant
+osm_data/highways.osm
+*.sync-conflict-*
