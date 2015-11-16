@@ -51,13 +51,14 @@ def getClosePointsForLines(l1, l2):
                 # Print the close by points (without this line it will print the close by
                 # lines). not sure now, maybe it prints close lines
                 print (l1[i - 1], l2[j - 1])
-                # try to add here l1[2] and l2[2] - create an object out of point
+                # try to add here l1[2] and l2[2] - create an object out of point,
                 # coordinates and line id
                 #closePointsWithIDs.append([(l1[i], l1[2]), (l2[j], l2[2])])
-                return {"indices": (i, j), "points": (l1[i], l2[j])}
+                # index 0 means it's the startpoint, index 1 means it's the endpoint
+                return {"indices": [i, j], "points": [l1[i], l2[j]]}
     return NULL
 
-def getNewLine(l1, l2, closePoints):
+#def getNewLine(l1, l2, closePoints):
 
 
 # Create an array to collect all the close-by points.
@@ -66,12 +67,111 @@ def getNewLine(l1, l2, closePoints):
 
 closeLines = []
 
-for f1 in startEndPoints:
+'''for f1 in startEndPoints:
     for f2 in startEndPoints:
         if f1["id"] < f2["id"]:
             closePoints = getClosePointsForLines(f1["line"], f2["line"])
             if closePoints:
-                closeLines.append({"original": (f1, f2), "new": getNewLine(f1["line"], f2["line"], closePoints)})
+                closeLines.append({"original": (f1, f2), "new": getNewLine(f1["line"], f2["line"], closePoints)})'''
+
+
+
+newLines = []
+# cP = close points
+def newClosePointsCoordinates(cP, cL):
+    # if it is equal, then new coordinate is old coordinate
+#if p["ids"][0]!= p["ids"][1] :
+    eP = cP["lines"]["points"][0]
+    sP = cP["lines"]["points"][1]
+    ePx = eP[0]
+    ePy = eP[1]
+    sPx = sP[0]
+    sPy = sP[1]
+    newX = ePx - ((ePx - sPx)/2)
+    newY = ePy - ((ePy - sPy)/2)
+    # think of a way to say that they all are equal
+    ePx = newX
+    ePy = newY
+    sPx = newX
+    sPy = newY
+    newCoord = (ePx, ePy)
+    cP["lines"]["points"][0] = newCoord
+    cP["lines"]["points"][1] = newCoord
+    #newCoordinate.append(p1)
+    #check for one line to have a changable startingpoint
+    if cP["lines"]["indices"][0] == 0 and cL[0]["original"]["id"] == cP["ids"][0]:
+        newLines.append({"line":(newCoord, cL[0]["original"]["line"][1]), "id":cP["ids"][0]})
+    #check for one line to have a changable startingpoint
+    elif cP["lines"]["indices"][1] == 0 and cL[0]["original"]["id"] == cP["ids"][1]:
+        newLines.append({"line":(newCoord, cL[0]["original"]["line"][1]), "id":cP["ids"][1]})
+    else:
+        return False
+    return newLines
+
+newLines = []
+# cP = close points
+def newClosePointsCoordinates(cP, cL):
+    for pointPair in cP:
+        eP = pointPair["lines"]["points"][0]
+        sP = pointPair["lines"]["points"][1]
+        ePx = eP[0]
+        ePy = eP[1]
+        sPx = sP[0]
+        sPy = sP[1]
+        newX = ePx - ((ePx - sPx)/2)
+        newY = ePy - ((ePy - sPy)/2)
+        # think of a way to say that they all are equal
+        ePx = newX
+        ePy = newY
+        sPx = newX
+        sPy = newY
+        newCoord = (ePx, ePy)
+        pointPair["lines"]["points"][0] = newCoord
+        pointPair["lines"]["points"][1] = newCoord
+        for linePair in cL:
+            # if first point to be changed was a start point of original line and if its id matches id from its original line
+            if pointPair["lines"]["indices"][0] == 0 and linePair["original"][0]["id"] == pointPair["ids"][0]:
+                # apply new coordinate to the start point, end point stays the same
+                newLines.append({"line":(newCoord, linePair["original"][0]["line"][1]), "id":pointPair["ids"][0]})
+            # if first point to be changed was an end point of original line and if its id matches id from its original line
+            elif pointPair["lines"]["indices"][0] == 1 and linePair["original"][0]["id"] == pointPair["ids"][0]:
+                # apply new coordinate to the end point, start point stays the same
+                newLines.append({"line":(linePair["original"][0]["line"][0], newCoord), "id":pointPair["ids"][0]})
+            else:
+                return False
+            # if first point to be changed was a start point of original line and if its id matches id from its original line
+            if pointPair["lines"]["indices"][1] == 0 and linePair["original"][1]["id"] == pointPair["ids"][1]:
+                # apply new coordinate to the start point, end point stays the same
+                newLines.append({"line":(newCoord, linePair["original"][1]["line"][1]), "id":pointPair["ids"][1]})
+            # if first point to be changed was an end point of original line and if its id matches id from its original line
+            elif pointPair["lines"]["indices"][1] == 1 and linePair["original"][1]["id"] == pointPair["ids"][1]:
+                # apply new coordinate to the end point, start point stays the same
+                newLines.append({"line":(linePair["original"][1]["line"][0], newCoord), "id":pointPair["ids"][1]})
+            else:
+                return False
+    return newLines
+
+testing = []
+testing.append({"new": newClosePointsCoordinates(closePoints, closeLines)})
+
+
+    '''if cP["lines"]["indices"][0] == 0:
+        return {"line": (newCoord, (closeLines[-1]["line"][-1] where closeLines["line"]["id"] == cP["ids"][0]), "id": cP["ids"][0]}
+    elif cP["lines"]["indices"][0] == 1:
+        return {"line": (eP, newCoord), "id": cP["ids"][0]}
+    else: False'''
+#return False
+
+closePoints = []
+for f1 in startEndPoints:
+    for f2 in startEndPoints:
+        if f1["id"] < f2["id"] and getClosePointsForLines(f1["line"], f2["line"]):
+            #closeLines.append([f1, f2])
+            closePoints.append({ "lines": getClosePointsForLines(f1["line"], f2["line"]), "ids": [f1["id"], f2["id"]]})
+            closeLines.append({"original": [f1, f2]})
+
+for p in closePoints:
+    testing = {"new": newClosePointsCoordinates(p, closeLines)}
 
 #closeLines = [(f1, f2) for f1 in startEndPoints for f2 in startEndPoints if (f1["id"] < f2["id"]) and linesAreTouchingEachOther(f1["line"], f2["line"])]
 
@@ -82,8 +182,8 @@ closeLines[0]
 # because there should be only 1 array.
 closeLines[1]
 
-newCoordinate = []
 
+'''
 def newClosePointsCoordinates(p1, p2):
     # if it is equal, then new coordinate is old coordinate
     if p1 != p2 :
@@ -103,9 +203,10 @@ def newClosePointsCoordinates(p1, p2):
         p1 = (ePx, ePy)
         p2 = (sPx, sPy)
         print (p1, p2)
-        newCoordinate.append(p1)
-        return True
+        #newCoordinate.append(p1)
+        return {}
     return False
+'''
 '''
 # doesn't work further!!!
 L = []

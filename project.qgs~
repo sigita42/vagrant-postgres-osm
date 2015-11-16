@@ -3,7 +3,7 @@
   <title></title>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" checked="Qt::Checked" id="test_field20151009121630414" name="test_field">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="test_field20151009121630414" name="test_field">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="world_borders_copy20151005161924388" name="world_borders_copy">
@@ -18,7 +18,7 @@
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="planet_osm_roads20150802192105602" name="planet_osm_roads">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="merged_roads_with_dissolve20150819202227868" name="merged_roads_with_dissolve">
+    <layer-tree-layer expanded="0" checked="Qt::Checked" id="merged_roads_with_dissolve20150819202227868" name="merged_roads_with_dissolve">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="planet_osm_roads20150802213107209" name=" custom railways">
@@ -41,10 +41,10 @@
   <mapcanvas>
     <units>degrees</units>
     <extent>
-      <xmin>16.13039190400266421</xmin>
-      <ymin>48.37486624529497448</ymin>
-      <xmax>16.13135018773313334</xmax>
-      <ymax>48.37549993177935193</ymax>
+      <xmin>16.45785853373475405</xmin>
+      <ymin>48.3328520045063712</ymin>
+      <xmax>16.60834366384209559</xmax>
+      <ymax>48.4139638745066847</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>0</projections>
@@ -79,9 +79,9 @@
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="test_field" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="test_field" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="test_field20151009121630414" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="test_field20151009121630414" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="world_borders_copy" showFeatureCount="0">
@@ -104,9 +104,9 @@
         <legendlayerfile isInOverview="0" layerid="planet_osm_roads20150802192105602" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="merged_roads_with_dissolve" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="merged_roads_with_dissolve" showFeatureCount="0">
       <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="merged_roads_with_dissolve20150819202227868" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="merged_roads_with_dissolve20150819202227868" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name=" custom railways" showFeatureCount="0">
@@ -8815,7 +8815,10 @@ limit 11) t)</datasource>
                 <effect type="outerGlow">
                   <prop k="blend_mode" v="0"/>
                   <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="0,0,255,255"/>
+                  <prop k="color2" v="0,255,0,255"/>
                   <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
                   <prop k="draw_mode" v="2"/>
                   <prop k="enabled" v="0"/>
                   <prop k="single_color" v="255,255,255,255"/>
@@ -8845,7 +8848,10 @@ limit 11) t)</datasource>
                 <effect type="innerGlow">
                   <prop k="blend_mode" v="0"/>
                   <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="0,0,255,255"/>
+                  <prop k="color2" v="0,255,0,255"/>
                   <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
                   <prop k="draw_mode" v="2"/>
                   <prop k="enabled" v="0"/>
                   <prop k="single_color" v="255,255,255,255"/>
@@ -12026,7 +12032,10 @@ group by ref) t)</datasource>
                 <effect type="outerGlow">
                   <prop k="blend_mode" v="0"/>
                   <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="0,0,255,255"/>
+                  <prop k="color2" v="0,255,0,255"/>
                   <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
                   <prop k="draw_mode" v="2"/>
                   <prop k="enabled" v="0"/>
                   <prop k="single_color" v="255,255,255,255"/>
@@ -12056,7 +12065,10 @@ group by ref) t)</datasource>
                 <effect type="innerGlow">
                   <prop k="blend_mode" v="0"/>
                   <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="0,0,255,255"/>
+                  <prop k="color2" v="0,255,0,255"/>
                   <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
                   <prop k="draw_mode" v="2"/>
                   <prop k="enabled" v="0"/>
                   <prop k="single_color" v="255,255,255,255"/>
@@ -12101,7 +12113,10 @@ group by ref) t)</datasource>
                     <effect type="outerGlow">
                       <prop k="blend_mode" v="0"/>
                       <prop k="blur_level" v="3"/>
+                      <prop k="color1" v="0,0,255,255"/>
+                      <prop k="color2" v="0,255,0,255"/>
                       <prop k="color_type" v="0"/>
+                      <prop k="discrete" v="0"/>
                       <prop k="draw_mode" v="2"/>
                       <prop k="enabled" v="0"/>
                       <prop k="single_color" v="255,255,255,255"/>
@@ -12131,7 +12146,10 @@ group by ref) t)</datasource>
                     <effect type="innerGlow">
                       <prop k="blend_mode" v="0"/>
                       <prop k="blur_level" v="3"/>
+                      <prop k="color1" v="0,0,255,255"/>
+                      <prop k="color2" v="0,255,0,255"/>
                       <prop k="color_type" v="0"/>
+                      <prop k="discrete" v="0"/>
                       <prop k="draw_mode" v="2"/>
                       <prop k="enabled" v="0"/>
                       <prop k="single_color" v="255,255,255,255"/>
@@ -12382,6 +12400,7 @@ group by ref) t)</datasource>
       <SingleCategoryDiagramRenderer diagramType="Pie">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="-4.65661e-10">
           <fontProperties description="Droid Sans,10,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" linePlacementFlags="10" placement="2" dist="0" xPosColumn="-1" priority="0" obstacle="0" showAll="1"/>
@@ -12671,7 +12690,10 @@ group by ref) t)</datasource>
                 <effect type="outerGlow">
                   <prop k="blend_mode" v="0"/>
                   <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="0,0,255,255"/>
+                  <prop k="color2" v="0,255,0,255"/>
                   <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
                   <prop k="draw_mode" v="2"/>
                   <prop k="enabled" v="0"/>
                   <prop k="single_color" v="255,255,255,255"/>
@@ -12701,7 +12723,10 @@ group by ref) t)</datasource>
                 <effect type="innerGlow">
                   <prop k="blend_mode" v="0"/>
                   <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="0,0,255,255"/>
+                  <prop k="color2" v="0,255,0,255"/>
                   <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
                   <prop k="draw_mode" v="2"/>
                   <prop k="enabled" v="0"/>
                   <prop k="single_color" v="255,255,255,255"/>
@@ -12740,7 +12765,10 @@ group by ref) t)</datasource>
                 <effect type="outerGlow">
                   <prop k="blend_mode" v="0"/>
                   <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="0,0,255,255"/>
+                  <prop k="color2" v="0,255,0,255"/>
                   <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
                   <prop k="draw_mode" v="2"/>
                   <prop k="enabled" v="0"/>
                   <prop k="single_color" v="255,255,255,255"/>
@@ -12770,7 +12798,10 @@ group by ref) t)</datasource>
                 <effect type="innerGlow">
                   <prop k="blend_mode" v="0"/>
                   <prop k="blur_level" v="3"/>
+                  <prop k="color1" v="0,0,255,255"/>
+                  <prop k="color2" v="0,255,0,255"/>
                   <prop k="color_type" v="0"/>
+                  <prop k="discrete" v="0"/>
                   <prop k="draw_mode" v="2"/>
                   <prop k="enabled" v="0"/>
                   <prop k="single_color" v="255,255,255,255"/>
@@ -12815,7 +12846,10 @@ group by ref) t)</datasource>
                     <effect type="outerGlow">
                       <prop k="blend_mode" v="0"/>
                       <prop k="blur_level" v="3"/>
+                      <prop k="color1" v="0,0,255,255"/>
+                      <prop k="color2" v="0,255,0,255"/>
                       <prop k="color_type" v="0"/>
+                      <prop k="discrete" v="0"/>
                       <prop k="draw_mode" v="2"/>
                       <prop k="enabled" v="0"/>
                       <prop k="single_color" v="255,255,255,255"/>
@@ -12845,7 +12879,10 @@ group by ref) t)</datasource>
                     <effect type="innerGlow">
                       <prop k="blend_mode" v="0"/>
                       <prop k="blur_level" v="3"/>
+                      <prop k="color1" v="0,0,255,255"/>
+                      <prop k="color2" v="0,255,0,255"/>
                       <prop k="color_type" v="0"/>
+                      <prop k="discrete" v="0"/>
                       <prop k="draw_mode" v="2"/>
                       <prop k="enabled" v="0"/>
                       <prop k="single_color" v="255,255,255,255"/>
@@ -12878,7 +12915,10 @@ group by ref) t)</datasource>
           <effect type="outerGlow">
             <prop k="blend_mode" v="0"/>
             <prop k="blur_level" v="3"/>
+            <prop k="color1" v="0,0,255,255"/>
+            <prop k="color2" v="0,255,0,255"/>
             <prop k="color_type" v="0"/>
+            <prop k="discrete" v="0"/>
             <prop k="draw_mode" v="2"/>
             <prop k="enabled" v="0"/>
             <prop k="single_color" v="255,255,255,255"/>
@@ -12908,7 +12948,10 @@ group by ref) t)</datasource>
           <effect type="innerGlow">
             <prop k="blend_mode" v="0"/>
             <prop k="blur_level" v="3"/>
+            <prop k="color1" v="0,0,255,255"/>
+            <prop k="color2" v="0,255,0,255"/>
             <prop k="color_type" v="0"/>
+            <prop k="discrete" v="0"/>
             <prop k="draw_mode" v="2"/>
             <prop k="enabled" v="0"/>
             <prop k="single_color" v="255,255,255,255"/>
@@ -13090,13 +13133,14 @@ group by ref) t)</datasource>
       <SingleCategoryDiagramRenderer diagramType="Pie">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="-4.65661e-10">
           <fontProperties description="Droid Sans,10,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" linePlacementFlags="10" placement="2" dist="0" xPosColumn="-1" priority="0" obstacle="0" showAll="1"/>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <featformsuppress>0</featformsuppress>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <editorlayout>generatedlayout</editorlayout>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>

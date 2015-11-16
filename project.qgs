@@ -3,7 +3,7 @@
   <title></title>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="test_field20151009121630414" name="test_field">
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="test_field20151009121630414" name="test_field">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="world_borders_copy20151005161924388" name="world_borders_copy">
@@ -18,7 +18,7 @@
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="planet_osm_roads20150802192105602" name="planet_osm_roads">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" checked="Qt::Checked" id="merged_roads_with_dissolve20150819202227868" name="merged_roads_with_dissolve">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="merged_roads_with_dissolve20150819202227868" name="merged_roads_with_dissolve">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="planet_osm_roads20150802213107209" name=" custom railways">
@@ -41,10 +41,10 @@
   <mapcanvas>
     <units>degrees</units>
     <extent>
-      <xmin>16.45785853373475405</xmin>
-      <ymin>48.3328520045063712</ymin>
-      <xmax>16.60834366384209559</xmax>
-      <ymax>48.4139638745066847</ymax>
+      <xmin>16.47301288667075525</xmin>
+      <ymin>48.33140873279817384</ymin>
+      <xmax>16.54825545172442602</xmax>
+      <ymax>48.37196466779833059</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>0</projections>
@@ -79,9 +79,9 @@
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="test_field" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="test_field" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="test_field20151009121630414" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="test_field20151009121630414" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="world_borders_copy" showFeatureCount="0">
@@ -104,9 +104,9 @@
         <legendlayerfile isInOverview="0" layerid="planet_osm_roads20150802192105602" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="merged_roads_with_dissolve" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="merged_roads_with_dissolve" showFeatureCount="0">
       <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="merged_roads_with_dissolve20150819202227868" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="merged_roads_with_dissolve20150819202227868" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name=" custom railways" showFeatureCount="0">
@@ -12624,7 +12624,7 @@ group by ref) t)</datasource>
     </maplayer>
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>test_field20151009121630414</id>
-      <datasource>./project_files/test_field.shp</datasource>
+      <datasource>./Temp/test_field.shp</datasource>
       <title></title>
       <abstract></abstract>
       <keywordList>
