@@ -1,8 +1,9 @@
 # vagrant-postgres-osm
 Preconfigured vagrant VM with docker-postgres-osm(-tools)
 
-## Usage???
+## Usage? (to be written)
 
+You should uncompress highways.zip
 
 ### start docker container with osm_tools
 

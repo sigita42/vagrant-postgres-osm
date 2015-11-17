@@ -52,7 +52,7 @@ def getClosePointsForLines(l1, l2):
             if arePointsCloseToEachOther(l1[i - 1], l2[j - 1]):
                 # Print the close by points
                 print (l1[i - 1], l2[j - 1])
-                # index 0 means it's the startpoint, index -1 means it's the endpoint
+                # index 0 means it's the endpoint, index 1 means it's the startpoint!!!!!!!!!!
                 return {"indices": [i-1, j-1], "points": [l1[i-1], l2[j-1]]}
     return NULL
 
