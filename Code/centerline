@@ -1,0 +1,32 @@
+area_layer_file = "./buffer.shp"
+line_layer_file = "./explodedVoronoi.shp"
+
+area_layer = QgsVectorLayer(area_layer_file, "buffer", "ogr")
+line_layer = QgsVectorLayer(line_layer_file, "explodedVoronoi", "ogr")
+
+
+area_layer=None
+for lyr in QgsMapLayerRegistry.instance().mapLayers().values():
+    if lyr.name() == "linesFromBuffer":
+        area_layer = lyr
+        break
+
+line_layer=None
+for lyr in QgsMapLayerRegistry.instance().mapLayers().values():
+    if lyr.name() == "explodedVoronoi":
+        line_layer = lyr
+        break
+
+lines = []
+
+for line_feature in line_layer.getFeatures():
+    for area_feature in area_layer.getFeatures():
+        if line_feature.geometry().intersects(area_feature.geometry()):
+            lines.append(line_feature.id())
+
+line_layer.select(lines)
+
+
+line_layer.startEditing()
+line_layer.dataProvider().deleteFeatures( lines )
+line_layer.commitChanges()
