@@ -3,3 +3,4 @@ osm_data/highways.osm
 osm_data/austria-latest.osm.pbf
 *.sync-conflict-*
 shape/*
+*~
