@@ -74,6 +74,14 @@ Vagrant.configure(2) do |config|
     docker pull sigita42/postgres-osm
     docker pull sigita42/postgres-osm-tools
 
-    docker run -d --name postgres-osm -p 5432:5432 --restart always sigita42/postgres-osm
+    docker run -d --name postgres-osm-vienna-old -p 5432:5432 --restart always sigita42/postgres-osm
+    cat /vagrant/postgres_data/vienna_old_dump.xz | unxz | docker exec -i postgres-osm-vienna gosu postgres psql gis
+    docker stop postgres-osm-vienna-old
+
+    docker run -d --name postgres-osm-austria -p 5432:5432 --restart always sigita42/postgres-osm
+    docker stop postgres-osm-austria
+
+    # docker ps -a
+    # docker start postgres-osm-...
   SHELL
 end
