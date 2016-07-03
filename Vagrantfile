@@ -49,7 +49,7 @@ Vagrant.configure(2) do |config|
   #   vb.gui = true
   #
   #   # Customize the amount of memory on the VM:
-    vb.memory = "1536"
+    vb.memory = "6144"
   end
   #
   # View the documentation for the provider you are using for more
@@ -79,6 +79,11 @@ Vagrant.configure(2) do |config|
     docker stop postgres-osm-vienna-old
 
     docker run -d --name postgres-osm-austria -p 5432:5432 --restart always sigita42/postgres-osm
+    cd /vagrant/osm_data
+    rm -f austria-latest.osm.pbf
+    wget http://download.geofabrik.de/europe/austria-latest.osm.pbf
+    /vagrant/osm2pgsql.sh default.style austria-latest.osm.pbf postgres-osm-austria
+    cd -
     docker stop postgres-osm-austria
 
     # docker ps -a
